@@ -12,7 +12,7 @@ The project is currently *in progress*. Sections without clickable links are not
 * Epistemic Injustice
 * Adaptive Preferences
 
-#### [Basic Demographics of the U.S.](google.com)
+#### [Basic Demographics of the U.S.](https://www.google.com/)
 * National Demographics
 * Wealth Demographics
 * Political Demographics
