@@ -6,11 +6,11 @@ The project is currently *in progress*. Sections without clickable links are not
 
 ## Table of Contents
 
-* Introductory Topics
-    * The Nature of "Politics"
-    * *A Priori* vs. *A Posteriori* Knowledge
-    * Epistemic Injustice
-    * Adaptive Preferences
+#### Introductory Topics
+* The Nature of "Politics"
+* *A Priori* vs. *A Posteriori* Knowledge
+* Epistemic Injustice
+* Adaptive Preferences
 
 * Basic Demographics of the U.S.
     * National Demographics
