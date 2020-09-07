@@ -156,10 +156,6 @@ The project is currently *in progress*. Sections without clickable links are not
 
 #### GSRM and LGBTQ+ Issues \[TBP\]
 
-#### Classism \[TBP\]
-* Hostile Design
-* Intelligence and Class
-
 #### Other Forms of Discrimination \[TBP\]
 * Ableism
 * Discrimination by Appearance
@@ -168,6 +164,135 @@ The project is currently *in progress*. Sections without clickable links are not
 * Scientific Consensus
 * Evidence for Climate Change
   * The Rise in CO<sub>2</sub>
+  * The Rise in Global Mean Temperature
+  * Milankovitch Cycles (No, the Warming Isn't Natural)
+  * The Link Between CO<sub>2</sub> and Temperature
+  * The Link Between CO<sub>2</sub> and Temperature (Advanced)
+  * No, the CO<sub>2</sub> Rise Isn't Good Because "Plants Need It"
+  * Food Shortages
+  * The Rise in Ocean Acidification
+  * The Shrinking Ice Caps
+  * Glacial Retreat and Decreased Snow Cover
+  * A Rise in Ocean Levels
+  * Increase in Precipitation, Droughts, and Wildfires
+  * Hurricanes and Extreme Storms
+  * Other Problematic Positive Feedback Loops
+  * Where to Read “Climate Denialist” Counterarguments
+* Negative Economic Effects of Climate Change
+  * Climate Change is Anthropogenic
+  * The Carbon Cycle
+  * Isotopic Analysis
+  * Other Greenhouse Gases
+* Climate Justice
+  * Developed Countries Are Disproportionately Responsible
+  * Developing Countries Are Disproportionately Affected
+  * Eco-Imperialism
+* Fossil Fuels
+  * Land and Air Damage
+  * Subsidies
+Clean Energy
+  * Renewable Energy
+  * Nuclear Energy
+Solutions to Climate Change
+  * Personal Solutions
+  * Coronavirus and the Climate
+  * Systemic Solutions
+  * The Paris Climate Agreement
+    * Provisions of the Paris Agreement
+    * The Importance of the Paris Agreement for the U.S.
+  * The Green New Deal
+
+#### Other Environmental Issues
+  * Pollution and Waste
+    * Air Pollution
+  * Overfishing and Failures of Agriculture
+  * A Mass Extinction Events
+    * The Positives of Trophy Hunting
+
+#### Religion
+  * The Sociopolitical Power of Christianity
+  * The Moral Failures of Christianity
+    * Historical Failures
+    * Theological Failures
+    * Debunking Immoral Christian Traditionalist Views
+  * "Evidence" for Christianity
+    * On the "Low Likelihood of Life Evolving Without Intelligent Design"
+    * Why "Pascal's Wager" is a Bad Argument
+    * Why "Presuppositionalism" is a Bad Argument
+  * Evolution is Real
+  * The Big Band is Real
+  * Atheist Justifications for Morality
+  * Islam \[TBP\]
+  * Hinduism \[TBP\]
+
+#### Protests and Free Speech \[TBP\]
+
+#### Capitalism and Economics \[TBP\]
+  
+#### Classism \[TBP\]
+* Hostile Design
+* Intelligence and Class
+
+#### Socialism and Economics \[TBP\]
+
+#### Modern Fascism and neo-Nazism
+* The Ideology of Fascism
+  * Proto-Fascism
+  * Eco-Fascism
+* The Rise of Neo-Nazism
+  * Crypto-Fascism
+  * White Supremacy and White Nationalism
+* The Alt-Right and Charlottesville
+  * Alt-Right Political Figures
+  * Antifa (Purpose and Accomplishments)
+  * Alt-Right Violence vs. Leftist Violence
+
+#### Healthcare
+* Problems with the Current System
+* The Affordable Care Act
+* Medicare for All
+* Socialized Healthcare
+* Guns and Gun Control
+
+#### Media and Misinformation
+* Misinformation in the News
+* Misinformation on Social Media
+* Where to Find Reliable Information
+* Violence and Sex in the Media
+* The Media Oligopoly
+* Blatant Propaganda Networks
+  * Fox News
+  * The Daily Wire
+  * Breitbart
+  * OANN
+* Billionaires Funding Media
+  * Koch Brothers
+  * Bloomberg
+
+#### The Education System
+* Sex Eduation
+* Math Education
+  * Math Anxiety and Sexism
+  * The Necessity of Math
+* Political and Philosophical Education
+* Other Education Systems
+* How to Encourage Student Passion
+* College and the Economy
+  * The Importance of Free College
+
+#### Drugs
+* Alcohol and Cigarettes
+  * Medical Effects of Alcohol
+  * Cigarettes vs. Vaping
+* Marijuana
+  * Medical Effects and Benefits of Marijuana
+  * Is Marijuana a "Gateway Drug"?
+  * Drug Trafficking
+* Classes of Drugs
+  * Chemically Addictive Drugs
+  * Crack and Powder Cocaine
+* The War on Drugs
+  
 
 ### Inspiration and Credit
 This document was inspired by [The Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE), which drew on the document [Systemic Racism in The United States](https://docs.google.com/document/d/1OIVHtml45EcMSi3suI5Zn1ymef5Y-8hnHbeY6kxp-ec). It is also inspired by the [Source Library](https://docs.google.com/document/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/); the idea to host this project on Github Pages came from the Source Library's author doing the same [here](https://nb419.github.io/source-library/). I read through each of these documents, choosing the best sources from each to add to my own research. 
