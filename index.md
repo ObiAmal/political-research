@@ -72,5 +72,72 @@ The project is currently *in progress*. Sections without clickable links are not
    * The Paradox of "Model Minority" and "Yellow Peril"
    * Racism Against Asian-Americans
 
+#### Immigration and Xenophobia
+* Trends in Immgration to the U.S.
+* Immigration and the Economy
+  * Immigrants Don't Steal Native Jobs
+  * American Wages Rise Due to Immigrants
+  * Immigrants Are Incredibly Valuable
+* Immigrants and Crime
+  * Immigrants Commit Crimes at a Lower Rate than Citizens
+  * Abuses of Power Against Immigrants
+* The Issue with the Legal Immigration System
+  * Stringent Requirements
+  * Ridiculous Wait Times
+* Positive Effects of Immigration
+  * General Effects
+  * Taxes, Social Security, and Public Benefits
+  * Idiocy of Mass Deportation
+
+#### Sexism
+* Explicit Sexism
+  * Enforcing Traditional Gender Roles
+  * Domestic Violence
+  * Sexual Harassment
+  * Rape and Sexual Assault
+* Implicit Sexism
+  * Pushback Against Survivors
+  * The Gender Credibility Gap
+  * Rape Culture and Objectification of Women
+  * Sexism Online and in the Video Gaming Industry
+* Sexism by Outcome
+  * Myths and Truths About the "Wage Gap"
+  * Women's Educational Attainment
+  * The Lack of Women in STEM
+  * The Lack of Women in Management Positions/Academia
+  * Women's Political Representation
+* Issues of Men's Liberation
+  * The Men's Liberation Movement vs. Men's Rights Activists
+  * Biases in the Criminal Justice System
+  * Parenting and Reproduction
+  * Discounting Sexual Violence Against Men
+  * Health: War, Danger, and Suicides
+  * Incels and Violence
+  * The SCUM Manifesto and "Man Hating"
+
+#### Abortion
+* The History of Abortion
+  * The History of Dangerous and Illegal Abortion
+  * Countries Where Abortion is Illegal
+  * Roe v. Wade, Doe v. Bolton, and Other Important Cases
+* Facts About Abortion
+  * Why Do Women Get Abortions?
+  * Late-Term Abortions
+  * Effect of Abortions on Women
+  * Negative Effects of Community Stigma
+  * Outcomes of Abortion
+  * Current Abortion Technology
+  * Current Issues with Abortion in the U.S.
+* The Morality and Legality of Abortion
+  * Arguments Against Abortion
+  * Deconstruction of "The Best Pro-Life Aruguments for Secular Audiences"
+  * Deontological Arguments For Abortion
+  * Consequentialist Arguments For Abortion
+  * Judith Jarvis Thompson's Arguments For Abortion
+
+#### Homophobia and Transphobia
+
+#### Climate Change
+
 ### Inspiration and Credit
 This document was inspired by [The Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE), which drew on the document [Systemic Racism in The United States](https://docs.google.com/document/d/1OIVHtml45EcMSi3suI5Zn1ymef5Y-8hnHbeY6kxp-ec). It is also inspired by the [Source Library](https://docs.google.com/document/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/); the idea to host this project on Github Pages came from the Source Library's author doing the same [here](https://nb419.github.io/source-library/). I read through each of these documents, choosing the best sources from each to add to my own research. 
