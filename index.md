@@ -71,7 +71,8 @@ The project is currently *in progress*. Sections without clickable links are not
 * Racism and Asian-Americans
    * Modern-Day Asian Economic Privilege
    * The Paradox of "Model Minority" and "Yellow Peril"
-   * Racism Against Asian-Americans
+   * Historical Racism Against Asian-Americans
+   * Modern Racism Against Asian-Americans
 
 #### Immigration and Xenophobia
 * Trends in Immgration to the U.S.
@@ -311,6 +312,30 @@ Solutions to Climate Change
 * Mass Incarceration and Slavery
 
 #### The U.S. Is Not the Greatest Country in the World
+* Blots on History
+  * The Founding Fathers' Characters
+  * Genocide of Indigeneous People
+  * Modern Oppression of Indigeneous People
+  * Slavery and Paternalism
+  * The Civil War
+  * Confederacy and "The Lost Cause"
+* Comparison to Other Countries
+  * Economics
+  * Society and Culture
+  * Accomplishments
+  * Historical Influence
+
+#### Democracy and Voting Systems
+* Direct and Representative Democracy
+* The Two-Party System
+  * How to Encourage Third Party Growth
+* The Electoral College
+  * Why the Electoral College was Created
+  * Why the Electoral College Fails Democracy
+  * NaPoVoInterCo and Removing the Electoral College
+* Voting Systems
+  * The Advantages of Single Transferrable Vote
+  * Other Voting Systems
 
 #### Relevant Global Issues
 * Israel and Palestine
