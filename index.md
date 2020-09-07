@@ -293,7 +293,7 @@ Solutions to Climate Change
   * Crack and Powder Cocaine
 * The War on Drugs
 
-#### Sex Works
+#### Sex Workers
 * The Porn Industry
   * Is the Porn Industry Exploitative?
   * Is Watching Porn Harmful?
@@ -310,9 +310,82 @@ Solutions to Climate Change
 * Private Prisons
 * Mass Incarceration and Slavery
 
-#### Relevant Global Issues
-
 #### The U.S. Is Not the Greatest Country in the World
+
+#### Relevant Global Issues
+* Israel and Palestine
+  * Critiquing Israel Without Being Anti-Semitic
+* China's Authoritarianism
+  * Social Credit System
+  * The Uyghurs and Concentration Camps
+* The Human Development Report
+  * Quantifying Poverty
+  * World Hunger and Thirst
+  * Solutions to World Poverty, Hunger, and Thirst
+
+#### Coronavirus
+* The Facts About Coronavirus
+  * The Morality Rate
+* The CCP Cover-up
+* The United States' Incompetent Response
+  * Economic Collapse
+  * Reopening, not Testing, Caused the Spike
+  * Covering up Cases and Deaths
+* The Efficacy of Maks and Quarantine
+  * Masks
+  * Quarantine
+* Coronavirus and Marginalized People
+* Miscellaneous
+  * No, BLM Protests Aren't Causing a Spike
+  * 6% and Misunderstanding Comorbidity
+
+#### Miscellaneous
+* Crazy Conspiracy Theories
+  * Anti-Vaxxers
+  * 5G Conspiracy Theorists
+  * Holocaust Deniers
+  * The "Jewish Question"
+  * Flat-Earthers
+  * Moon-Truthers
+* Generational Shift
+
+#### A Messy List of "Bad Studies"
+
+#### Female and BIPOC Philosophical Figures
+* Mary Wollstonecraft
+* Simone de Beauvoir
+* Mary Anne Warren
+* Martha Nussbaum
+* Amartya Sen
+* Judith Butler
+* Elizabeth Anderson
+* Michele Moody-Adams
+* Amie Thomasson
+* James Baldwin
+* Ta-Nehisi Coates
+* Ibram X. Kendi
+
+#### Relevant Political Figures
+* Donald Trump
+  * Political Platform
+  * Trump's Favorite Actions as President
+  * Other Actions
+  * Coronavirus Response
+  * Trump's Current Support
+* Joe Biden
+  * Political Platform
+  * Actions During Political Career
+  * Biden and Sexual Assault
+* Howie Hawkins
+  * Political Platform
+* Barack Obama
+* Bernie Sanders
+* Nancy Pelosi
+* Mitch McConnell
+* Ben Shapiro
+* Dennis Prager
+* Jordan Peterson
+* Tucker Carlson
 
 ### Inspiration and Credit
 This document was inspired by [The Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE), which drew on the document [Systemic Racism in The United States](https://docs.google.com/document/d/1OIVHtml45EcMSi3suI5Zn1ymef5Y-8hnHbeY6kxp-ec). It is also inspired by the [Source Library](https://docs.google.com/document/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/); the idea to host this project on Github Pages came from the Source Library's author doing the same [here](https://nb419.github.io/source-library/). I read through each of these documents, choosing the best sources from each to add to my own research. 
