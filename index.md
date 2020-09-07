@@ -287,12 +287,32 @@ Solutions to Climate Change
 * Marijuana
   * Medical Effects and Benefits of Marijuana
   * Is Marijuana a "Gateway Drug"?
-  * Drug Trafficking
+* Drug Trafficking
 * Classes of Drugs
   * Chemically Addictive Drugs
   * Crack and Powder Cocaine
 * The War on Drugs
-  
+
+#### Sex Works
+* The Porn Industry
+  * Is the Porn Industry Exploitative?
+  * Is Watching Porn Harmful?
+  * Should Porn Be Banned?
+* Sex Work and Prostitution
+  * Legalization vs. Decriminalization
+  * Is the Sex Industry Exploitative?
+  * Violence Against Sex Workers
+* Sex Trafficking
+* SWERFs
+
+#### The Police and Prison System
+* The Police Force is Fundamentally Broken
+* Private Prisons
+* Mass Incarceration and Slavery
+
+#### Relevant Global Issues
+
+#### The U.S. Is Not the Greatest Country in the World
 
 ### Inspiration and Credit
 This document was inspired by [The Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE), which drew on the document [Systemic Racism in The United States](https://docs.google.com/document/d/1OIVHtml45EcMSi3suI5Zn1ymef5Y-8hnHbeY6kxp-ec). It is also inspired by the [Source Library](https://docs.google.com/document/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/); the idea to host this project on Github Pages came from the Source Library's author doing the same [here](https://nb419.github.io/source-library/). I read through each of these documents, choosing the best sources from each to add to my own research. 
