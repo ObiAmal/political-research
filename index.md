@@ -46,6 +46,7 @@ The project is currently *in progress*. Sections without clickable links are not
    * Judgements About "Black Culture"
    * Hiring by Name
    * Judgements by Appearance
+   * Backlash Against Affirmative Action
    * Implicit Racism by Police
    * Implicit Racism in the Courts
 * Racism by Outcome
@@ -136,8 +137,37 @@ The project is currently *in progress*. Sections without clickable links are not
   * Judith Jarvis Thompson's Arguments For Abortion
 
 #### Homophobia and Transphobia
+* Explicit Homophobia and Transphobia
+  * Religion-Based Homophobia
+  * Violence Against LGBTQ+ People
+  * "Rapid Onset Gender Dysphoria"
+  * TERFs
+  * Purposeful Misgendering
+  * The Term "Transtrenders"
+  * Transgender Bathroom Bills
+* Implicit Homophobia and Transphobia
+  * Gay Couples Are Not Worse Parents
+  * Workplace Discrimination Against LGBTQ+
+  * Backlash Against the C16 Bill
+* Homophobia and Transphobia by Outcome
+  * Economic Outcomes of LGBTQ+ People
+  * The Suicide Rate of Trans People
+  * Transgender Healthcare
+
+#### GSRM and LGBTQ+ Issues \[TBP\]
+
+#### Classism \[TBP\]
+* Hostile Design
+* Intelligence and Class
+
+#### Other Forms of Discrimination \[TBP\]
+* Ableism
+* Discrimination by Appearance
 
 #### Climate Change
+* Scientific Consensus
+* Evidence for Climate Change
+  * The Rise in CO<sup>2</sup>
 
 ### Inspiration and Credit
 This document was inspired by [The Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE), which drew on the document [Systemic Racism in The United States](https://docs.google.com/document/d/1OIVHtml45EcMSi3suI5Zn1ymef5Y-8hnHbeY6kxp-ec). It is also inspired by the [Source Library](https://docs.google.com/document/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/); the idea to host this project on Github Pages came from the Source Library's author doing the same [here](https://nb419.github.io/source-library/). I read through each of these documents, choosing the best sources from each to add to my own research. 
