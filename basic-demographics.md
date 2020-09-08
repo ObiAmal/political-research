@@ -56,12 +56,14 @@ Other statistics:
 * According to [the EPI](https://www.epi.org/publication/ceo-compensation-2018/), "CEO compensation has grown 940% since 1978". In contrast, the typical worker's compensation has grown just 12%. This leads to a situation where CEOs make 278 times as much as the average worker. 
 * MotherJones has created articles with punchy graphics [here](https://www.motherjones.com/politics/2011/02/income-inequality-in-america-chart-graph/), [here](https://www.motherjones.com/politics/2011/10/one-percent-income-inequality-ows/), and [here](https://www.motherjones.com/politics/2011/04/taxes-richest-americans-charts-graph/). A more nuanced discussion of the means by which economic inequality is perpetuated (which will not be found there) will happen in the "Classism" and "Capitalism and Economics" chapters.
 
-Economic inequality along lines of race, gender, sexuality, etc. are found in the chapters respectively dedicated to them. Here is a (fairly dated) discussion of income differences between Republicans and Democrats from [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-democrats/) and [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-republicans/) source. 
+Here is a (fairly dated) discussion of income differences between Republicans and Democrats from [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-democrats/) and [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-republicans/) source. 
 * 63% of voters earning less than $15,000 per year favor Democrats (compared to 36% which favor Republicans). 
 * Democrats' advantage continues up until about $50,000 per year (approximately the median income), and then the process is mirrored in the Republicans’ favor: 36% of voters earning more than $200,000 per year favor Democrats (compared to 63% which favor Republicans). 
 * However, interestingly, "a review of the 20 richest Americans, as listed by Forbes Magazine, found that 60 percent affiliate with the Democratic Party."
 
 Understanding the economic inequality between and within parties is important because, for example, many low-income Republicans agree with progressive economic policies, but far more high-income Republicans do not ([source](https://www.voterstudygroup.org/publication/on-the-money)). In contrast, low- and high-income Democrats are fairly unified in their support for progressive economic measures. This even affects voting, because the report finds that Republicans with more economically progressive ideas were more likely to vote against Trump in the 2016 election.
+
+Finally, economic inequality along lines of race, gender, sexuality, etc. are found in the chapters respectively dedicated to them. 
 
 ## Political Demographics
 
