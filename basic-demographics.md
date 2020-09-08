@@ -48,7 +48,7 @@ In particular, the report finds that, in the past two decades, growth in median 
 
 The 90/10 Ratio | The Gini Coefficient in G7 Countries | Perceptions of Inequality
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/images/90-10-ratio.png) | ![](/images/gini-coefficient-G7.png) | ![](/images/perception-of-wealth-inequality.png)
+![](/images/90-10-ratio.png) | ![](/images/gini-coefficient-G7.png) | ![](/images/perception-of-wealth-inequality.png) 
 
 Above-right is an image from a Harvard Business Study, [Norton and Ariely 2011](https://www.hbs.edu/faculty/Publication%20Files/Norton_Michael_Building%20a%20better%20America%20One%20wealth%20quintile%20at%20a%20time_4c575dff-fe1d-4002-b61a-1227d08b71be.pdf), which shows the extreme differences between (1) the actual wealth distribution, (2) the public's perception of the wealth distribution, and (3) the public's perception of the optimal wealth distribution. 
 
