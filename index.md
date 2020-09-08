@@ -13,11 +13,11 @@ The project is currently *in progress*. Sections without clickable links are not
 * [Epistemic Injustice](philosophical-topics#epistemic-injustice)
 * [Adaptive Preferences](philosophical-topics#adaptive-preferences)
 
-#### Basic Demographics of the U.S.
-* National Demographics
-* Wealth Demographics
-* Political Demographics
-* Religious Demographics
+#### [Basic Demographics of the U.S.](basic-demographics)
+* [National Demographics](basic-demographics#national-demographics)
+* [Wealth Demographics](basic-demographics#wealth-demographics)
+* [Political Demographics](basic-demographics#political-demographics)
+* [Religious Demographics](basic-demographics#religious-demographics)
 
 #### Rhetoric and Debate
 * Good- and Bad-Faith Debate
