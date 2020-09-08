@@ -38,6 +38,8 @@ Another slightly dated [study](https://williamsinstitute.law.ucla.edu/publicatio
 
 ## Wealth Demographics
 
+
+
 ## Political Demographics
 
 According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-trends-in-party-affiliation-among-demographic-groups/), 50% of Americans lean Democrat, compared to 42% who lean Republican. However, only 33% of the population identify *precisely* as Democrats and only 26% identify *precisely* as Republicans (37% are independent). Since 1994, the percentage of Democrats hasn’t changed, but the percentage of independents has risen by 7% (the percentage of Republicans has dropped by 7%).
