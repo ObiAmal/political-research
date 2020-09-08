@@ -78,10 +78,10 @@ According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-tren
 * For those with a college degree but no postgraduate experience, 54% lean Democrat and 39% lean Republican. 
 * For those with postgraduate experience, 63% lean Democrat and 31% lean Republican. 
 
-Following is a (fairly dated) discussion of income differences between Republicans and Democrats ([source](https://www.debt.org/faqs/americans-in-debt/economic-demographics-democrats/) and [source](https://www.debt.org/faqs/americans-in-debt/economic-demographics-republicans/)). In particular, the articles report that
-* Among voters earning less than $15,000 a year, 63% favor Democrats and 36% favor Republicans. 
-* Democrats' advantage continues up until about $50,000 per year (approximately the median income), and then the process is mirrored in Republicans’ favor.
-* Among voters earning more than $200,000 a year, 36% favor Democrats and 63% favor Republicans.
+Following is a (slightly dated) discussion of income differences between Republicans and Democrats. 
+* https://www.payscale.com/career-news/2012/10/what-you-earn-vs-how-you-vote-infographic
+* https://www.pewresearch.org/politics/2009/05/21/section-1-party-affiliation-and-composition/
+* https://assets.pewresearch.org/wp-content/uploads/sites/5/2016/09/09-13-16-Party-ID-Combined-Detailed-Tables.pdf
 
 Many low-income Republicans agree with progressive economic policies, but far more high-income Republicans do not ([source](https://www.voterstudygroup.org/publication/on-the-money)). Interestingly, this pattern *does not hold* for Democrats, which are fairly unified in their support for progressive economic measures regardless of income (high-income Democrats are actually *more* likely in some cases to support progressive economic policies). The report also finds that Republicans with more economically progressive ideas (that is, poorer Republicans) were more likely to vote against Trump in the 2016 election.
 
