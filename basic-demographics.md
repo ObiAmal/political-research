@@ -62,7 +62,7 @@ Here is a (fairly dated) discussion of income differences between Republicans an
 
 Many low-income Republicans agree with progressive economic policies, but far more high-income Republicans do not ([source](https://www.voterstudygroup.org/publication/on-the-money)). Interestingly, this pattern *does not hold* for Democrats, which are fairly unified in their support for progressive economic measures regardless of income (high-income Democrats are actually *more* likely in some cases to support progressive economic policies). The report also finds that Republicans with more economically progressive ideas (that is, poorer Republicans) were more likely to vote against Trump in the 2016 election.
 
-Finally, economic inequality along lines of race, gender, sexuality, etc. are found in the chapters respectively dedicated to them. 
+Finally, economic inequality along lines of race, gender, and sexuality are found in the chapters "Racism", "Sexism", and "Homophobia and Transphobia". 
 
 ## Political Demographics
 
