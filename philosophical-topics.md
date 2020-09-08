@@ -14,7 +14,7 @@ The influences of these political ideas (and many like them) continue to this da
 
 ## Descriptive vs. Prescriptive Statements
 
-In epistemology, there is a famous problem put forth by David Hume called the “is-ought problem” (also known as Hume’s guillotine). In short, Hume noticed that people were deriving statements about what *ought to be* (called "prescriptive" or "normative" statements) solely from statements about what *is* (called "descriptive" or "positive" statements), and he challenged the idea that this is ever logically valid. To see why, take the following argument as an example: 
+In epistemology, there is a famous problem put forth by David Hume called the “is-ought problem” (also known as "Hume’s guillotine"). In short, Hume noticed that people were deriving statements about what *ought to be* (called "prescriptive" or "normative" statements) solely from statements about what *is* (called "descriptive" or "positive" statements), and he challenged the idea that this is ever logically valid. To see why, take the following argument as an example: 
 
 Premise 1: It is cold outside. 
 Premise 2: All people who go outside when it is cold without a coat are cold. 
@@ -24,9 +24,9 @@ Despite the fact that this is solid everyday advice, it is not a logically valid
 
 ## *A Priori* vs. *A Posteriori* Justification
 
-An *a priori* justification is a justification that is based not on empirical evidence and observation, but on theoretical deduction ([source](https://plato.stanford.edu/entries/apriori/)). Formally, an a priori justification is one that follows from definitions. On the other hand, an *a posteriori* justification is one that is based on empirical evidence and observation — essentially, on experience. Hume's fork is the idea that all genuine propositions are either a priori or a posteriori justifications ([source](https://www.jstor.org/stable/27743990)). 
+An *a priori* justification is a justification that is based not on empirical evidence and observation, but on theoretical deduction ([source](https://plato.stanford.edu/entries/apriori/)). Formally, an a priori justification is one that follows from definitions. On the other hand, an *a posteriori* justification is one that is based on empirical evidence and observation — essentially, it follows from (either collective or individual) experience. "Hume's fork" is the idea that all genuine propositions are either a priori or a posteriori justifications ([source](https://www.jstor.org/stable/27743990)). Practically, this means that any proposition you make must either be justified by empirical evidence or follow from the definitions you adopt. 
 
-Understanding this topic is important, because many people choose to reject empirical evidence in political discussions. If they choose to lean into valid a priori arguments, this is at least a good-faith stance (even if it can be counterproductive). However, some people (such as Nick Fuentes [here](https://youtu.be/8XbT4UojaRw?t=1370)) will claim that their (unjustified) points are "true a priori" because they are "common sense". Such a claim, even dressed up in terminology, is ridiculous; understanding the terminology will help you notice when people fail to properly justify their propositions. 
+Understanding this topic is especially important today, because many people choose to reject empirical evidence in political discussions. If they choose to lean into valid a priori arguments, this is at least a good-faith stance (even if it can be counterproductive). However, some people (such as Nick Fuentes [here](https://youtu.be/8XbT4UojaRw?t=1370)) will claim that their (unjustified) points are "true a priori" because they are "common sense". Such a claim, even dressed up in terminology, is ridiculous; understanding the terminology will help you notice when people fail to properly justify their propositions. 
 
 ## Epistemic Injustice
 
