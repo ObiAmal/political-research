@@ -22,9 +22,11 @@ Conclusion: You should wear a coat to go outside.
 
 Despite the fact that this is solid everyday advice, it is not a logically valid argument. There is a missing premise: the premise that “you should not be cold”. As you can see, for our conclusion to be an “ought” statement, we need at least one of our premises to also be an “ought” statement. The is-ought problem says that we could never derive an "ought" statement from solely statements about what is, and to this day, the problem still stands. 
 
-## *A Priori* vs. *A Posteriori* Knowledge
+## *A Priori* vs. *A Posteriori* Justification
 
+An *a priori* justification is a justification that is based not on empirical evidence and observation, but on theoretical deduction ([source](https://plato.stanford.edu/entries/apriori/)). Formally, an a priori justification is one that follows from definitions. On the other hand, an *a posteriori* justification is one that is based on empirical evidence and observation — essentially, on experience. Hume's fork is the idea that all genuine propositions are either a priori or a posteriori justifications ([source](https://www.jstor.org/stable/27743990)). 
 
+Understanding this topic is important, because many people choose to reject empirical evidence in political discussions. If they choose to lean into valid a priori arguments, this is at least a good-faith stance (even if it can be counterproductive). However, some people (such as Nick Fuentes [here](https://youtu.be/8XbT4UojaRw?t=1370)) will claim that their (unjustified) points are "true a priori" because they are "common sense". Such a claim, even dressed up in terminology, is ridiculous; understanding the terminology will help you notice when people fail to properly justify their propositions. 
 
 ## Epistemic Injustice
 
