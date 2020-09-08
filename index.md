@@ -10,7 +10,7 @@ The project is currently *in progress*. Sections without clickable links are not
 * [The Nature of "Politics"](philosophical-topics#the-nature-of-politics)
 * *A Priori* vs. *A Posteriori* Knowledge
 * Descriptive vs. Prescriptive Statements
-* Epistemic Injustice
+* [Epistemic Injustice](philosophical-topics#epistemic-injustice)
 * Adaptive Preferences
 
 #### Basic Demographics of the U.S.
