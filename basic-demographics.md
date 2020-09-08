@@ -46,8 +46,6 @@ Income Inequality             |  Wealth Inequality
 
 In particular, the report finds that, in the past two decades, growth in median household income (accounting for inflation) "slowed to an annual average rate of only 0.3%", compared with 1.2% for the previous three deacdes. Similarly, it finds that the median household wealth of American families is "currently no higher than its level two decades ago". This inequality can be traced to the Great Recession: the report finds that the wealthiest families are "the only ones to have experienced gains in wealth in the years after the start of the Great Recession in 2007." In the top quintile, median net worth increased by 13% between 2007 and 2016; in contrast, "the net worth of families in lower tiers of wealth decreased by at least 20%" (and up to 39%, in the case of the second-to-bottom quintile) in the same timeframe.
 
-https://news.gallup.com/poll/151310/u.s.-republican-not-conservative.aspx
-
 ## Political Demographics
 
 According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-trends-in-party-affiliation-among-demographic-groups/), 50% of Americans lean Democrat, compared to 42% who lean Republican. However, only 33% of the population identify *precisely* as Democrats and only 26% identify *precisely* as Republicans (37% are independent). Since 1994, the percentage of Democrats hasn’t changed, but the percentage of independents has risen by 7% (the percentage of Republicans has dropped by 7%).
