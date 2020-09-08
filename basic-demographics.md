@@ -59,9 +59,8 @@ Other statistics:
 Here is a (fairly dated) discussion of income differences between Republicans and Democrats from [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-democrats/) and [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-republicans/) source. 
 * 63% of voters earning less than $15,000 per year favor Democrats (compared to 36% which favor Republicans). 
 * Democrats' advantage continues up until about $50,000 per year (approximately the median income), and then the process is mirrored in the Republicans’ favor: 36% of voters earning more than $200,000 per year favor Democrats (compared to 63% which favor Republicans). 
-* However, interestingly, "a review of the 20 richest Americans, as listed by Forbes Magazine, found that 60 percent affiliate with the Democratic Party."
 
-Understanding the economic inequality between and within parties is important because, for example, many low-income Republicans agree with progressive economic policies, but far more high-income Republicans do not ([source](https://www.voterstudygroup.org/publication/on-the-money)). In contrast, low- and high-income Democrats are fairly unified in their support for progressive economic measures. This even affects voting, because the report finds that Republicans with more economically progressive ideas were more likely to vote against Trump in the 2016 election.
+Many low-income Republicans agree with progressive economic policies, but far more high-income Republicans do not ([source](https://www.voterstudygroup.org/publication/on-the-money)). Interestingly, this pattern *does not hold* for Democrats, which are fairly unified in their support for progressive economic measures regardless of income (high-income Democrats are actually *more* likely in some cases to support progressive economic policies). The report also finds that Republicans with more economically progressive ideas (that is, poorer Republicans) were more likely to vote against Trump in the 2016 election.
 
 Finally, economic inequality along lines of race, gender, sexuality, etc. are found in the chapters respectively dedicated to them. 
 
