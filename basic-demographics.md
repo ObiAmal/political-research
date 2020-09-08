@@ -22,7 +22,7 @@ The data is taken from the U.S. Census Bureau QuickFacts page, accessible [here]
 * 0.2% of the population is Native Hawaiian and other Pacific Islanders.
 * Only 2.8% of the population is two or more races. 
 
-Interesting Facts: 
+*Interesting Facts:*
 * 13.5% of people are foreign-born. 
 * 21.5% of families speak a language other than English at home. 
 * 88.8% of families have a computer at home (only 80.4% have an internet subscription). 
@@ -34,7 +34,7 @@ It is difficult to find information about LGBT+ demographics (this is an issue o
 
 Another slightly dated [study](https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/) from the UCLA Williams Institute suggests that only 0.6% of people identify as transgender. The Williams Insitute also provides some more interesting stats [here](https://williamsinstitute.law.ucla.edu/visualization/lgbt-stats/?topic=LGBT#demographic).
 
-An interesting note: according to a Gallup poll, people significantly overestimate [the LGBT population](https://news.gallup.com/poll/259571/americans-greatly-overestimate-gay-population.aspx) and [the Black/Hispanic population](https://news.gallup.com/poll/4435/Public-Overestimates-US-Black-Hispanic-Populations.aspx). 
+*An interesting note:* according to a Gallup poll, people significantly overestimate [the LGBT population](https://news.gallup.com/poll/259571/americans-greatly-overestimate-gay-population.aspx) and [the Black/Hispanic population](https://news.gallup.com/poll/4435/Public-Overestimates-US-Black-Hispanic-Populations.aspx). 
 
 ## Wealth Demographics
 
