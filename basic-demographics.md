@@ -2,7 +2,9 @@
 
 ## National Demographics
 
-The data is taken from the U.S. Census Bureau QuickFacts page, accessible [here](https://www.census.gov/quickfacts/fact/table/US/PST045219). Note that all data is as of July 1st, 2019. The United States’ population is approximately 328 million as of July 1st, 2019 (as of 2020, sources estimate 329 million). It has grown approximately 6.3% since 2010. More detailed data is [here](https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf). *Note:* in this section “people counted by the U.S. Census” is shortened to “people” for the sake of brevity.
+This data is taken from the [U.S. Census Bureau QuickFacts page](https://www.census.gov/quickfacts/fact/table/US/PST045219), dated July 1st, 2019. At this time, the United States’ population was approximately 328 million (as of 2020, sources estimate 329 million), and it has grown approximately 6.3% since 2010. More detailed data (on age, sex, by-state data, and so on) is [here](https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf). 
+
+*Note:* in this section “people counted by the U.S. Census” is shortened to “people” for the sake of brevity.
 
 *Age Distribution:*
 * 6% of people are under 5 years of age.
