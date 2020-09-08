@@ -9,7 +9,7 @@ The project is currently *in progress*. Sections without clickable links are not
 #### [Interesting Philosophical Topics](philosophical-topics)
 * [The Nature of "Politics"](philosophical-topics#the-nature-of-politics)
 * *A Priori* vs. *A Posteriori* Knowledge
-* The Is-Ought Gap
+* Descriptive vs. Prescriptive Statements
 * Epistemic Injustice
 * Adaptive Preferences
 
