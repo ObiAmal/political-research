@@ -11,7 +11,7 @@ The project is currently *in progress*. Sections without clickable links are not
 * *A Priori* vs. *A Posteriori* Knowledge
 * Descriptive vs. Prescriptive Statements
 * [Epistemic Injustice](philosophical-topics#epistemic-injustice)
-* Adaptive Preferences
+* [Adaptive Preferences](philosophical-topics#adaptive-preferences)
 
 #### Basic Demographics of the U.S.
 * National Demographics
