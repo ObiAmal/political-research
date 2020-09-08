@@ -52,6 +52,10 @@ The 90/10 Ratio | The Gini Coefficient in G7 Countries | Perceptions of Inequali
 
 Above-right is an image from a Harvard Business Study, [Norton and Ariely 2011](https://www.hbs.edu/faculty/Publication%20Files/Norton_Michael_Building%20a%20better%20America%20One%20wealth%20quintile%20at%20a%20time_4c575dff-fe1d-4002-b61a-1227d08b71be.pdf), which shows the extreme differences between (1) the actual wealth distribution, (2) the public's perception of the wealth distribution, and (3) the public's perception of the optimal wealth distribution. 
 
+Other punchy statistics: 
+* According to [the EPI](https://www.epi.org/publication/ceo-compensation-2018/), "CEO compensation has grown 940% since 1978". In contrast, the typical worker's compensation has grown just 12%. This leads to a situation where CEOs make 278 times as much as the average worker. 
+* MotherJones has created articles with punchy graphics [here](https://www.motherjones.com/politics/2011/02/income-inequality-in-america-chart-graph/), [here](https://www.motherjones.com/politics/2011/10/one-percent-income-inequality-ows/), and [here](https://www.motherjones.com/politics/2011/04/taxes-richest-americans-charts-graph/), but a more nuanced discussion of the means by which economic inequality is perpetuated will happen in the "Classism" and "Capitalism and Economics" chapters.
+
 ## Political Demographics
 
 According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-trends-in-party-affiliation-among-demographic-groups/), 50% of Americans lean Democrat, compared to 42% who lean Republican. However, only 33% of the population identify *precisely* as Democrats and only 26% identify *precisely* as Republicans (37% are independent). Since 1994, the percentage of Democrats hasn’t changed, but the percentage of independents has risen by 7% (the percentage of Republicans has dropped by 7%).
@@ -81,7 +85,6 @@ Mormons are overwhelmingly Republican (72% to 22%), and non-Hispanic white Catho
 Jewish people are overwhelmingly Democrat (67% to 31%), as are religiously unaffiliated people (68% to 22%). 
 
 Urban voters lean heavily Democrat (62% to 31%), suburban counties barely lean Democrat (47% to 45%), and rural countries lean Republican (54% to 38%). 
-
 
 ## Religious Demographics
 
