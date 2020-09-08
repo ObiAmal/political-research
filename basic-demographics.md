@@ -52,9 +52,13 @@ The 90/10 Ratio | The Gini Coefficient in G7 Countries | Perceptions of Inequali
 
 Above-right is an image from a Harvard Business Study, [Norton and Ariely 2011](https://www.hbs.edu/faculty/Publication%20Files/Norton_Michael_Building%20a%20better%20America%20One%20wealth%20quintile%20at%20a%20time_4c575dff-fe1d-4002-b61a-1227d08b71be.pdf), which shows the extreme differences between (1) the actual wealth distribution, (2) the public's perception of the wealth distribution, and (3) the public's perception of the optimal wealth distribution. 
 
-Other punchy statistics: 
+Other statistics: 
 * According to [the EPI](https://www.epi.org/publication/ceo-compensation-2018/), "CEO compensation has grown 940% since 1978". In contrast, the typical worker's compensation has grown just 12%. This leads to a situation where CEOs make 278 times as much as the average worker. 
-* MotherJones has created articles with punchy graphics [here](https://www.motherjones.com/politics/2011/02/income-inequality-in-america-chart-graph/), [here](https://www.motherjones.com/politics/2011/10/one-percent-income-inequality-ows/), and [here](https://www.motherjones.com/politics/2011/04/taxes-richest-americans-charts-graph/), but a more nuanced discussion of the means by which economic inequality is perpetuated will happen in the "Classism" and "Capitalism and Economics" chapters.
+* MotherJones has created articles with punchy graphics [here](https://www.motherjones.com/politics/2011/02/income-inequality-in-america-chart-graph/), [here](https://www.motherjones.com/politics/2011/10/one-percent-income-inequality-ows/), and [here](https://www.motherjones.com/politics/2011/04/taxes-richest-americans-charts-graph/). A more nuanced discussion of the means by which economic inequality is perpetuated (which will not be found there) will happen in the "Classism" and "Capitalism and Economics" chapters.
+
+Economic inequality along lines of race, gender, sexuality, etc. are found in the chapters respectively dedicated to them. Here, we will discuss 
+
+Understanding the economic inequality between and within parties is important because, for example, low-income Republicans agree with Democrats many of economic policies, but high-income Republicans do not ([source](https://www.voterstudygroup.org/publication/on-the-money)). In contrast, low- and high-income Democrats are fairly unified on the issues. 
 
 ## Political Demographics
 
