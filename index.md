@@ -8,7 +8,7 @@ The project is currently *in progress*. Sections without clickable links are not
 
 #### [Interesting Philosophical Topics](philosophical-topics)
 * [The Nature of "Politics"](philosophical-topics#the-nature-of-politics)
-* [*A Priori* vs. *A Posteriori* Knowledge](philosophical-topics#a-priori-vs-a-posteriori-knowledge)
+* [*A Priori* vs. *A Posteriori* Knowledge](philosophical-topics#a-priori-vs-a-posteriori-justifications)
 * [Descriptive vs. Prescriptive Statements](philosophical-topics#descriptive-vs-prescriptive-statements)
 * [Epistemic Injustice](philosophical-topics#epistemic-injustice)
 * [Adaptive Preferences](philosophical-topics#adaptive-preferences)
