@@ -7,7 +7,7 @@ The project is currently *in progress*. Sections without clickable links are not
 ### Table of Contents
 
 #### [Interesting Philosophical Topics](philosophical-topics)
-* The Nature of "Politics"
+* [The Nature of "Politics"](philosophical-topics#the-nature-of-politics)
 * *A Priori* vs. *A Posteriori* Knowledge
 * The Is-Ought Gap
 * Epistemic Injustice
