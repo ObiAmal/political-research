@@ -40,6 +40,35 @@ Another slightly dated [study](https://williamsinstitute.law.ucla.edu/publicatio
 
 ## Political Demographics
 
+According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-trends-in-party-affiliation-among-demographic-groups/), 50% of Americans lean Democrat, compared to 42% who lean Republican. However, only 33% of the population identify *precisely* as Democrats and only 26% identify *precisely* as Republicans (37% are independent). Since 1994, the percentage of Democrats hasn’t changed, but the percentage of independents has risen by 7% (the percentage of Republicans has dropped by 7%).
+
+*Political leaning by sex:*
+* 48% of men lean Republican and 44% lean Democrat. 
+* 56% of women lean Democrat and 37% lean Republican. 
+
+*Political leaning by race:*
+* 51% of white people lean Republican and 43% lean Democrat. 
+* 84% of black people lean Democrat and 8% lean Republican. 
+* 63% of Hispanic people lean Democrat and 28% lean Republican. 
+* 65% of Asian-Americans lean Democrat and 27% lean Republican. 
+
+*Political leaning by education:*
+* For those with no college education, 47% lean Republican and 45% lean Democrat.
+* For those who did not graduate from college but still have some college education, 47% lean Democrat and 45% lean Republican. 
+* For those with a college degree but no postgraduate experience, 54% lean Democrat and 39% lean Republican. 
+* For those with postgraduate experience, 63% lean Democrat and 31% lean Republican. 
+
+[Studies](https://journals.sagepub.com/doi/abs/10.1177/0022022115611749) have found that “gross domestic product (GDP) per capita, cognitive test performance, and governance indicators” are lower in conservative countries than liberal countries. Furthermore, [social conservatism](https://www.researchgate.net/publication/222682950_Conservatism_and_cognitive_ability) is negatively correlated with tested cognitive ability ([here](https://journals.sagepub.com/doi/abs/10.1177/0956797611421206) is another corroborating study). On the other hand, [this study](https://www.researchgate.net/publication/265852713_Cognitive_ability_and_party_identity_in_the_United_States) finds that “individuals who identify as Republican have slightly higher verbal intelligence than those who identify as Democrat” but mostly attributes this difference to increased socioeconomic status (see the section The “Black-White IQ Gap” for more on how SES is related to IQ). It agrees that there is lower intelligence among those who are socially conservative. 
+
+*Political leaning by religion:*
+White non-Hispanic evangelical Protestants are more likely to lean Republican (77%) than Democrat (18%). However, mainline Protestants are more even at 53% Rep. and 41% Dem. 
+On the other hand, black Protestants are more likely to be Democrat supporters than arbitrary black people: 87% lean Democrat and 7% lean Republican. 
+Mormons are overwhelmingly Republican (72% to 22%), and non-Hispanic white Catholics have recently shifted towards Republicans (from 45-45 in 1994 to 54-40 today). 
+Jewish people are overwhelmingly Democrat (67% to 31%), as are religiously unaffiliated people (68% to 22%). 
+
+Urban voters lean heavily Democrat (62% to 31%), suburban counties barely lean Democrat (47% to 45%), and rural countries lean Republican (54% to 38%). 
+
+
 ## Religious Demographics
 
 This data comes from [this Pew Research poll](https://www.pewforum.org/religious-landscape-study/). 
