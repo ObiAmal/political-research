@@ -22,8 +22,6 @@ Conclusion: You should wear a coat to go outside.
 
 Despite the fact that this is solid everyday advice, it is not a logically valid argument. There is a missing premise: the premise that “you should not be cold”. As you can see, for our conclusion to be an “ought” statement, we need at least one of our premises to also be an “ought” statement. The is-ought problem says that we could never derive an "ought" statement from solely statements about what is, and to this day, the problem still stands. 
 
-The main reason I am interested in the is-ought gap is that it means that scientific facts and logic are not enough to construct (or justify) a moral system. This has a few implications. Particularly interesting is the following argument: since Christianity includes a moral system, the is-ought gap implies that science alone will never be enough to "prove" Christianity (or any other religion which includes a moral framework) true. In other words, religion will always be a matter of faith. Even if God himself descends from the heavens to prove his existence, Christianity is not vindicated because God’s existence does not prove that we should obey him. Even if God could verify that he created the universe, “because God created the universe we must obey him” is nothing more than a “might makes right” argument. 
-
 ## *A Priori* vs. *A Posteriori* Knowledge
 
 
