@@ -9,6 +9,7 @@ The project is currently *in progress*. Sections without clickable links are not
 #### Introductory Topics
 * The Nature of "Politics"
 * *A Priori* vs. *A Posteriori* Knowledge
+* The Is-Ought Gap
 * Epistemic Injustice
 * Adaptive Preferences
 
