@@ -12,9 +12,21 @@ Aristotle believed that humans were vulnerable: he decided the government must a
 
 The influences of these political ideas (and many like them) continue to this day. For example, the Stoics believed that "we should treat the artificial distinctions created by society as trivial and insignificant" (page 129), an opinion that is mirrored by modern-day neoliberals when they reject the notion that the government should correct for unequal external conditions for different races, genders, or classes. To create a coherent political framework, we must begin with a philosophical idea of what the ultimate goals of society, and the government or institutions that organize it, are. Only once we agree on where we are going can we begin to discuss how we will get there. 
 
+## Descriptive vs. Prescriptive Statements
+
+In epistemology, there is a famous problem put forth by David Hume called the “is-ought problem” (also known as Hume’s guillotine). In short, Hume noticed that people were deriving statements about what *ought to be* (called "prescriptive" or "normative" statements) solely from statements about what *is* (called "descriptive" or "positive" statements), and he challenged the idea that this is ever logically valid. To see why, take the following argument as an example: 
+
+Premise 1: It is cold outside. 
+Premise 2: All people who go outside when it is cold without a coat are cold. 
+Conclusion: You should wear a coat to go outside. 
+
+Despite the fact that this is solid everyday advice, it is not a logically valid argument. There is a missing premise: the premise that “you should not be cold”. As you can see, for our conclusion to be an “ought” statement, we need at least one of our premises to also be an “ought” statement. The is-ought problem says that we could never derive an "ought" statement from solely statements about what is, and to this day, the problem still stands. 
+
+The main reason I am interested in the is-ought gap is that it means that scientific facts and logic are not enough to construct (or justify) a moral system. This has a few implications. Particularly interesting is the following argument: since Christianity includes a moral system, the is-ought gap implies that science alone will never be enough to "prove" Christianity (or any other religion which includes a moral framework) true. In other words, religion will always be a matter of faith. Even if God himself descends from the heavens to prove his existence, Christianity is not vindicated because God’s existence does not prove that we should obey him. Even if God could verify that he created the universe, “because God created the universe we must obey him” is nothing more than a “might makes right” argument. 
+
 ## *A Priori* vs. *A Posteriori* Knowledge
 
-## Descriptive vs. Prescriptive Statements
+
 
 ## Epistemic Injustice
 
