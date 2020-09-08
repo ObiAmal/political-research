@@ -56,12 +56,6 @@ Other statistics:
 * According to [the EPI](https://www.epi.org/publication/ceo-compensation-2018/), "CEO compensation has grown 940% since 1978". In contrast, the typical worker's compensation has grown just 12%. This leads to a situation where CEOs make 278 times as much as the average worker. 
 * MotherJones has created articles with punchy graphics [here](https://www.motherjones.com/politics/2011/02/income-inequality-in-america-chart-graph/), [here](https://www.motherjones.com/politics/2011/10/one-percent-income-inequality-ows/), and [here](https://www.motherjones.com/politics/2011/04/taxes-richest-americans-charts-graph/). A more nuanced discussion of the means by which economic inequality is perpetuated (which will not be found there) will happen in the "Classism" and "Capitalism and Economics" chapters.
 
-Here is a (fairly dated) discussion of income differences between Republicans and Democrats from [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-democrats/) and [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-republicans/) source. 
-* 63% of voters earning less than $15,000 per year favor Democrats (compared to 36% which favor Republicans). 
-* Democrats' advantage continues up until about $50,000 per year (approximately the median income), and then the process is mirrored in the Republicans’ favor: 36% of voters earning more than $200,000 per year favor Democrats (compared to 63% which favor Republicans). 
-
-Many low-income Republicans agree with progressive economic policies, but far more high-income Republicans do not ([source](https://www.voterstudygroup.org/publication/on-the-money)). Interestingly, this pattern *does not hold* for Democrats, which are fairly unified in their support for progressive economic measures regardless of income (high-income Democrats are actually *more* likely in some cases to support progressive economic policies). The report also finds that Republicans with more economically progressive ideas (that is, poorer Republicans) were more likely to vote against Trump in the 2016 election.
-
 Finally, economic inequality along lines of race, gender, and sexuality are found in the chapters "Racism", "Sexism", and "Homophobia and Transphobia". 
 
 ## Political Demographics
@@ -83,6 +77,12 @@ According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-tren
 * For those who did not graduate from college but still have some college education, 47% lean Democrat and 45% lean Republican. 
 * For those with a college degree but no postgraduate experience, 54% lean Democrat and 39% lean Republican. 
 * For those with postgraduate experience, 63% lean Democrat and 31% lean Republican. 
+
+Here is a (fairly dated) discussion of income differences between Republicans and Democrats from [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-democrats/) and [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-republicans/) source. 
+* 63% of voters earning less than $15,000 per year favor Democrats (compared to 36% which favor Republicans). 
+* Democrats' advantage continues up until about $50,000 per year (approximately the median income), and then the process is mirrored in the Republicans’ favor: 36% of voters earning more than $200,000 per year favor Democrats (compared to 63% which favor Republicans). 
+
+Many low-income Republicans agree with progressive economic policies, but far more high-income Republicans do not ([source](https://www.voterstudygroup.org/publication/on-the-money)). Interestingly, this pattern *does not hold* for Democrats, which are fairly unified in their support for progressive economic measures regardless of income (high-income Democrats are actually *more* likely in some cases to support progressive economic policies). The report also finds that Republicans with more economically progressive ideas (that is, poorer Republicans) were more likely to vote against Trump in the 2016 election.
 
 [Studies](https://journals.sagepub.com/doi/abs/10.1177/0022022115611749) have found that “gross domestic product (GDP) per capita, cognitive test performance, and governance indicators” are lower in conservative countries than liberal countries. Furthermore, [social conservatism](https://www.researchgate.net/publication/222682950_Conservatism_and_cognitive_ability) is negatively correlated with tested cognitive ability ([here](https://journals.sagepub.com/doi/abs/10.1177/0956797611421206) is another corroborating study). On the other hand, [this study](https://www.researchgate.net/publication/265852713_Cognitive_ability_and_party_identity_in_the_United_States) finds that “individuals who identify as Republican have slightly higher verbal intelligence than those who identify as Democrat” but mostly attributes this difference to increased socioeconomic status (see the section “Intelligence and Class” for more on how socioeconomic status is related to IQ). It agrees that there is lower intelligence among those who are socially conservative. 
 
