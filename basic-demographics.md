@@ -63,7 +63,7 @@ Even in cities and states that are considered “atheist”, Christianity is a m
 * Seattle is 52% Christian and 37% Unaffiliated. 
 * San Francisco is 48% Christian and 35% Unaffiliated. 
 
-This is important to consider in a time when a popular talking point from conservative and other right-leaning politicians is that Christians are oppressed or under attack. While there is data to suggest that Christianity is [losing its previous near-ubiquity in modern America](https://www.pewforum.org/2019/10/17/in-u-s-decline-of-christianity-continues-at-rapid-pace/), it is still the dominant religion in terms of sociopolitical power (for more, see the section "The Sociopolitical Power of Christianity"). 
+This is important to consider in a time when a popular talking point from conservative and other right-leaning politicians is that Christians are oppressed or under attack. While there is data to suggest that Christianity is [losing its previous near-ubiquity in modern America](https://www.pewforum.org/2019/10/17/in-u-s-decline-of-christianity-continues-at-rapid-pace/), it is still the dominant religion both in terms of numbers and sociopolitical power (for a discussion on the latter, see the section "The Sociopolitical Power of Christianity"). 
 
 Other useful surveys: 
 * [How income varies among U.S. religious groups](https://www.pewresearch.org/fact-tank/2016/10/11/how-income-varies-among-u-s-religious-groups/)
