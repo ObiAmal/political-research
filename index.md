@@ -6,7 +6,7 @@ The project is currently *in progress*. Sections without clickable links are not
 
 ### Table of Contents
 
-#### Interesting Philosophical Topics
+#### [Interesting Philosophical Topics](philosophical-topics)
 * The Nature of "Politics"
 * *A Priori* vs. *A Posteriori* Knowledge
 * The Is-Ought Gap
