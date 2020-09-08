@@ -42,6 +42,8 @@ Another slightly dated [study](https://williamsinstitute.law.ucla.edu/publicatio
 
 ## Religious Demographics
 
+This data comes from [this Pew Research poll](https://www.pewforum.org/religious-landscape-study/). 
+
 *National Religious Distribution:*
 * Christian: 70.6%
   * Evangelical Protestant: 25.4%
