@@ -78,9 +78,10 @@ According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-tren
 * For those with a college degree but no postgraduate experience, 54% lean Democrat and 39% lean Republican. 
 * For those with postgraduate experience, 63% lean Democrat and 31% lean Republican. 
 
-Here is a (fairly dated) discussion of income differences between Republicans and Democrats from [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-democrats/) and [this](https://www.debt.org/faqs/americans-in-debt/economic-demographics-republicans/) source. 
-* 63% of voters earning less than $15,000 per year favor Democrats (compared to 36% which favor Republicans). 
-* Democrats' advantage continues up until about $50,000 per year (approximately the median income), and then the process is mirrored in the Republicans’ favor: 36% of voters earning more than $200,000 per year favor Democrats (compared to 63% which favor Republicans). 
+[Here](https://www.debt.org/faqs/americans-in-debt/economic-demographics-democrats/) and [here](https://www.debt.org/faqs/americans-in-debt/economic-demographics-republicans/) is a (fairly dated) discussion of income differences between Republicans and Democrats. In particular, it finds thaat
+* Among voters earning less than $15,000 a year, 63% favor Democrats and 36% favor Republicans. 
+* Democrats' advantage continues up until about $50,000 per year (approximately the median income), and then the process is mirrored in Republicans’ favor.
+* Among voters earning more than $200,000 a year, 36% favor Democrats and 63% favor Republicans.
 
 Many low-income Republicans agree with progressive economic policies, but far more high-income Republicans do not ([source](https://www.voterstudygroup.org/publication/on-the-money)). Interestingly, this pattern *does not hold* for Democrats, which are fairly unified in their support for progressive economic measures regardless of income (high-income Democrats are actually *more* likely in some cases to support progressive economic policies). The report also finds that Republicans with more economically progressive ideas (that is, poorer Republicans) were more likely to vote against Trump in the 2016 election.
 
