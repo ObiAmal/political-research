@@ -1,4 +1,6 @@
-# The Nature of “Politics”
+# Interesting Philosophical Topics
+
+## The Nature of “Politics”
 
 *This section is inspired by and draws from Martha Nussbaum’s book "Creating Capabilities". Any quotes which are followed by (page \_\_\_) are taken from that page of the first edition of said book.*
 
@@ -10,11 +12,11 @@ Aristotle believed that humans were vulnerable: he decided the government must a
 
 The influences of these political ideas (and many like them) continue to this day. For example, the Stoics believed that "we should treat the artificial distinctions created by society as trivial and insignificant" (page 129), an opinion that is mirrored by modern-day neoliberals when they reject the notion that the government should correct for unequal external conditions for different races, genders, or classes. To create a coherent political framework, we must begin with a philosophical idea of what the ultimate goals of society, and the government or institutions that organize it, are. Only once we agree on where we are going can we begin to discuss how we will get there. 
 
-# *A Priori* vs. *A Posteriori* Knowledge
+## *A Priori* vs. *A Posteriori* Knowledge
 
-# Descriptive vs. Prescriptive Statements
+## Descriptive vs. Prescriptive Statements
 
-# Epistemic Injustice
+## Epistemic Injustice
 
 Epistemic injustice is a term introduced by Miranda Fricker in her book of the same name ([source](https://onlinelibrary.wiley.com/doi/full/10.1111/josp.12348)). At its core, epistemic injustice means that someone is being wronged as a knower, that they have been discriminated against in their means of receiving or sharing knowledge. This name comes from epistemology, the branch of philosophy associated with the study of knowledge and the truth. Fricker identified two types of epistemic injustice: 
 
