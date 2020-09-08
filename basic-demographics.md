@@ -78,7 +78,7 @@ According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-tren
 * For those with a college degree but no postgraduate experience, 54% lean Democrat and 39% lean Republican. 
 * For those with postgraduate experience, 63% lean Democrat and 31% lean Republican. 
 
-[Here](https://www.debt.org/faqs/americans-in-debt/economic-demographics-democrats/) and [here](https://www.debt.org/faqs/americans-in-debt/economic-demographics-republicans/) is a (fairly dated) discussion of income differences between Republicans and Democrats. In particular, it finds thaat
+Following is a (fairly dated) discussion of income differences between Republicans and Democrats ([source](https://www.debt.org/faqs/americans-in-debt/economic-demographics-democrats/) and [source](https://www.debt.org/faqs/americans-in-debt/economic-demographics-republicans/)). In particular, the articles report thaat
 * Among voters earning less than $15,000 a year, 63% favor Democrats and 36% favor Republicans. 
 * Democrats' advantage continues up until about $50,000 per year (approximately the median income), and then the process is mirrored in Republicans’ favor.
 * Among voters earning more than $200,000 a year, 36% favor Democrats and 63% favor Republicans.
