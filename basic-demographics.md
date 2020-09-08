@@ -1,4 +1,4 @@
-# Basic Demographics
+# Basic Demographics of the U.S.
 
 ## National Demographics
 
@@ -7,17 +7,19 @@ This data is taken from the [U.S. Census Bureau QuickFacts page](https://www.cen
 *Note:* in this section “people counted by the U.S. Census” is shortened to “people” for the sake of brevity.
 
 *Age Distribution:*
-* 6% of people are under 5 years of age.
-* 22.3% of people are under 18 years of age. 
-* 61.2% of people are between 18 and 65 years of age.
-* 16.5% of people are over 65 years of age.
+* 6% of the population is under 5 years of age.
+* 22.3% of the population is under 18 years of age. 
+* 61.2% of the population is between 18 and 65 years of age.
+* 16.5% of the population is over 65 years of age.
 
-*Sex Distribution:* 50.8% of people are biologically female and 49.2% of people are biologically male. 
+*Sex Distribution:* 
+* 50.8% of the population is biologically female
+* 49.2% of the population is biologically male. 
 
 *Racial and Ethnic Distribution:*
 * 76.3% of the population is white.
-* 60.1% is white non-Hispanic or Latinx. 
-* 18.5% is Hispanic or Latinx.
+* 60.1% of the population is white non-Hispanic or Latinx. 
+* 18.5% of the population is Hispanic or Latinx.
 * 13.4% of the population is Black/African-American.
 * 5.9% of the population is Asian. 
 * 1.3% of the population is American Indian and Alaska Native.
@@ -25,34 +27,36 @@ This data is taken from the [U.S. Census Bureau QuickFacts page](https://www.cen
 * Only 2.8% of the population is two or more races. 
 
 *Interesting Facts:*
-* 13.5% of people are foreign-born. 
+* 13.5% of of the population foreign-born. 
 * 21.5% of families speak a language other than English at home. 
 * 88.8% of families have a computer at home (only 80.4% have an internet subscription). 
-* 31.5% of people over 25 in the U.S. have a Bachelor’s degree (or higher). 
-* 10.0% of people under 65 do not have healthcare. 
-* 11.8% of people are under the poverty line. 
+* 31.5% of the population over 25 in the U.S. have a Bachelor’s degree (or higher). 
+* 10.0% of the population under 65 do not have healthcare. 
+* 11.8% of the population are under the poverty line. 
 
-It is difficult to find information about LGBT+ demographics (this is an issue of epistemic injustice). However, this (slightly dated) [Gallup poll](https://news.gallup.com/poll/234863/estimate-lgbt-population-rises.aspx) estimates that approximately 4.5% of people identify as LGBT+ (about 5% of women and 4% of men). However, since Gallup finds this number is rising, and this poll is from 2017, it is likely an underestimate. One's likelihood to identify as LGBT+ is heavily correlated with age: 8.2% of millenials identify as LGBT+ compared to just just 1.4% of the Silent Generation (and 2.4% of the Boomer Generation). 
+It is difficult to find information about LGBT+ demographics (likely an issue of epistemic injustice). This (slightly dated) [Gallup poll](https://news.gallup.com/poll/234863/estimate-lgbt-population-rises.aspx) estimates that approximately 4.5% of people identify as LGBT+ (about 5% of women and 4% of men). However, since Gallup finds this number is rising, and this poll is from 2017, it is likely an underestimate. One's likelihood to identify as LGBT+ is heavily correlated with age: 8.2% of millenials identify as LGBT+ compared to just just 1.4% of the Silent Generation (and 2.4% of the Boomer Generation). 
 
 Another slightly dated [study](https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/) from the UCLA Williams Institute suggests that only 0.6% of people identify as transgender. The Williams Insitute also provides some more interesting stats on LGBT+ people and their situation [here](https://williamsinstitute.law.ucla.edu/visualization/lgbt-stats/?topic=LGBT#demographic).
 
-*An interesting note:* according to a Gallup poll, people significantly overestimate [the LGBT population](https://news.gallup.com/poll/259571/americans-greatly-overestimate-gay-population.aspx) and [the Black/Hispanic population](https://news.gallup.com/poll/4435/Public-Overestimates-US-Black-Hispanic-Populations.aspx). 
+*Interesting note:* according to a Gallup poll, Americans significantly overestimate [the LGBT population](https://news.gallup.com/poll/259571/americans-greatly-overestimate-gay-population.aspx) and [the Black and Hispanic population](https://news.gallup.com/poll/4435/Public-Overestimates-US-Black-Hispanic-Populations.aspx). 
 
 ## Wealth Demographics
 
-The [Pew Research Center](https://www.pewsocialtrends.org/2020/01/09/trends-in-income-and-wealth-inequality/) created a series of charts that illustrate economic inequality in this country. The first graph focuses on the increasing income inequality, and the second focuses on the increasing weal inequality. 
+The Pew Research Center created [a report](https://www.pewsocialtrends.org/2020/01/09/trends-in-income-and-wealth-inequality/) with series of charts that illustrate economic inequality in this country. The first graph focuses on the increasing income inequality, and the second focuses on the increasing weal inequality. 
 
 Income Inequality | Wealth Inequality
 :-------------------------:|:-------------------------:|
 ![](/images/income-inequality.png) | ![](/images/wealth-inequality.png)
 
-In particular, the report finds that, in the past two decades, growth in median household income (accounting for inflation) "slowed to an annual average rate of only 0.3%", compared with 1.2% for the previous three deacdes. Similarly, it finds that the median household wealth of American families is "currently no higher than its level two decades ago". This inequality can be traced to the Great Recession: the report finds that the wealthiest families are "the only ones to have experienced gains in wealth in the years after the start of the Great Recession in 2007." In the top quintile, median net worth increased by 13% between 2007 and 2016; in contrast, "the net worth of families in lower tiers of wealth decreased by at least 20%" (and up to 39%, in the case of the second-to-bottom quintile) in the same timeframe. Finally, below-left are two metrics of income inequality: one showing how income inequality is rising, and another showing how the U.S. has the highest wealth inequality of any G-7 country.
+In particular, the report finds that, in the past two decades, growth in median household income (accounting for inflation) "slowed to an annual average rate of only 0.3%", compared with 1.2% for the previous three deacdes. Similarly, it finds that the median household wealth of American families is "currently no higher than its level two decades ago". This inequality can be traced to the Great Recession: the report finds that the wealthiest families are "the only ones to have experienced gains in wealth in the years after the start of the Great Recession in 2007." In the top quintile, median net worth increased by 13% between 2007 and 2016; in contrast, "the net worth of families in lower tiers of wealth decreased by at least 20%" (and up to 39%, in the case of the second-lowest quintile) in the same timeframe. 
+
+In the left and center of the next image are two metrics of income inequality: one showing how income inequality is rising, and another showing how the U.S. has the highest wealth inequality of any G-7 country.
 
 The 90/10 Ratio | The Gini Coefficient in G7 Countries | Perceptions of Inequality
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/images/90-10-ratio.png) | ![](/images/gini-coefficient-G-7.png) | ![](/images/perception-of-wealth-inequality.png) 
 
-Above-right is an image from a Harvard Business Study, [Norton and Ariely 2011](https://www.hbs.edu/faculty/Publication%20Files/Norton_Michael_Building%20a%20better%20America%20One%20wealth%20quintile%20at%20a%20time_4c575dff-fe1d-4002-b61a-1227d08b71be.pdf), which shows the extreme differences between (1) the actual wealth distribution, (2) the public's perception of the wealth distribution, and (3) the public's perception of the optimal wealth distribution. 
+To the right is an image from a Harvard Business Study, [Norton and Ariely 2011](https://www.hbs.edu/faculty/Publication%20Files/Norton_Michael_Building%20a%20better%20America%20One%20wealth%20quintile%20at%20a%20time_4c575dff-fe1d-4002-b61a-1227d08b71be.pdf), which shows the extreme differences between (1) the actual wealth distribution in the U.S., (2) the public's perception of the wealth distribution, and (3) the public's perception of the optimal wealth distribution. 
 
 Other statistics: 
 * According to [the EPI](https://www.epi.org/publication/ceo-compensation-2018/), "CEO compensation has grown 940% since 1978". In contrast, the typical worker's compensation has grown just 12%. This leads to a situation where CEOs make 278 times as much as the average worker. 
