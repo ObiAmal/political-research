@@ -40,9 +40,9 @@ Another slightly dated [study](https://williamsinstitute.law.ucla.edu/publicatio
 
 The [Pew Research Center](https://www.pewsocialtrends.org/2020/01/09/trends-in-income-and-wealth-inequality/) created a series of charts that illustrate economic inequality in this country. The first graph focuses on the increasing income inequality, and the second focuses on the increasing weal inequality. 
 
-Income Inequality             |  Wealth Inequality
+Income Inequality  |  Wealth Inequality | Economic Inequality 
 :-------------------------:|:-------------------------:
-![](/images/income-inequality.png)  |  ![](/images/wealth-inequality.png)
+![](/images/income-inequality.png) | ![](/images/wealth-inequality.png) | ![](/images/economic-inequality.png)
 
 In particular, the report finds that, in the past two decades, growth in median household income (accounting for inflation) "slowed to an annual average rate of only 0.3%", compared with 1.2% for the previous three deacdes. Similarly, it finds that the median household wealth of American families is "currently no higher than its level two decades ago". This inequality can be traced to the Great Recession: the report finds that the wealthiest families are "the only ones to have experienced gains in wealth in the years after the start of the Great Recession in 2007." In the top quintile, median net worth increased by 13% between 2007 and 2016; in contrast, "the net worth of families in lower tiers of wealth decreased by at least 20%" (and up to 39%, in the case of the second-to-bottom quintile) in the same timeframe.
 
