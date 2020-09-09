@@ -111,7 +111,7 @@ Jewish people are overwhelmingly Democrat (67% to 31%), as are religiously unaff
 
 Urban voters lean heavily Democrat (62% to 31%), suburban counties barely lean Democrat (47% to 45%), and rural countries lean Republican (54% to 38%). 
 
- ### Intelligence and Political Leanings
+### Intelligence and Political Leanings
 
 [Stankov and Lee 2015](https://journals.sagepub.com/doi/abs/10.1177/0022022115611749) found that “gross domestic product (GDP) per capita, cognitive test performance, and governance indicators were found to be low in the most conservative group and high in the most liberal group”. In the earlier study [Stankov 2009](https://www.sciencedirect.com/science/article/pii/S0160289609000051) by the same author, it was found that "conservatism correlates negatively with measures of cognitive ability and educational achievement at both individual and country levels of analysis." 
 
