@@ -48,6 +48,16 @@ There is a fabulous quote by G.H. Hardy on this technique: “Reductio ad absurd
 However, not all statements need to be proven deductively. Inductive arguments are arguments that do not prove their conclusion with total certainty, but rather argue the conclusion is extremely likely. Inductive arguments are not judged by their logical consistency, but by how "strong" or "weak" they are. For example, when done correctly, an argument from analogy can serve as inductive justification for a particular position. Of course, creating a false analogy is a fallacy, and determining what is “false” is hard, but this doesn’t mean that arguments from analogy are worthless. Another example of strong inductive reasoning is the process of using a large random sample of a population to reason about the entire population. [Here](https://examples.yourdictionary.com/examples-of-inductive-reasoning.html) are more examples of inductive reasoning.
 
 ### Good-Faith Debate Tactics
+
+Here is a list of tactics that might not help you make your opponent “look bad”, but will ultimately help you convince them to change their mind. 
+* *Stay calm.* Stereotypes about the overemotional abound; these stereotypes are undoubtedly harmful, but for the sake of optics it’s important to avoid them. 
+* *Concede good points and point out when your opponent gets something right.* Dogmatically refusing to admit nuance in your conversation partner’s position (even when, to you, it seems like they have none) will only lock away the possibility for
+* *Accept small changes.* You don’t need to compromise, but be prepared to accept small steps by your partner in the right direction. Ideology change does not happen all at once. 
+* *Study your partner.* On one hand, understanding your opponent’s positions and tendencies will be helpful to prepare for their arguments or catch them in logical inconsistencies. On the other, it can help educate you on what your partner is missing or what arguments will be most effective.
+* *Require a consistent ideology.* Tu quoque (discussed later) is a fallacy, but it is absolutely reasonable to require that each point of your partner’s ideology agrees with earlier points. 
+* *Steel man your partner’s position.* Instead of trying to find a weak version of your opponent’s argument, find a strong version. Make their argument as effective as possible and restate it to them so that (1) you’re sure you understand them and (2) they know you’re listening to them. 
+And, of course, avoid the fallacies and bad-faith debate tactics discussed later in this chapter. 
+
 ## Invalid Argumentative Techniques
 ### Logical and Statistical Fallacies
 ### Bad-Faith Debate Tactics
