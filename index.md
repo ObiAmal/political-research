@@ -2,7 +2,7 @@
 
 This repository aims to ground American political discourse in empirical and logical truth. It collects academic evidence, news stories, and various arguments on politically important issues. Before we can discuss how the world ought to change, we must agree on how the world *is*. I am always collecting new perspectives and evidence for this project; if you have either, my Discord is **@ObiAmal#2764**. I also have a [YouTube channel](https://www.youtube.com/channel/UCuYbZqacrAbk9HvR6UO0fOQ) where I discuss political issues through this rational lens. 
 
-*Note:* Allegedly, one can place https://sci-hub.tw/ or https://scihub.wikicn.top/ before the URL of a study to bypass any paywalls it might be hidden behind. I wouldn’t know, however, as I’ve never done it.
+*Note:* Allegedly, one can place [sci-hub.tw/](https://sci-hub.tw/) or [scihub.wikicn.top/](https://scihub.wikicn.top/) before the URL of a study to bypass any paywalls it might be hidden behind. I wouldn’t know, however, as I’ve never done it.
 
 The project is currently *in progress*. Sections without clickable links are not yet completed. Sections with the label \[TBP\] are "to be planned"; the outline for these sections may not even be filled out yet.
 
