@@ -15,7 +15,7 @@ Formatting standards:
 * Italicize the titles of books but use quotation marks around the titles of studies. 
 * Do not excessively bold: only use it for a few incredibly important points in each chapter. 
 * When citing studies, cite the authors and then the year of publication. For example, a citation for a study that Obi created would be [Obi 2020](https://obiamal.github.io/political-research/). Make sure the citation is a link that leads to a website with the actual text of the study (no ResearchGate, for example). 
-* When citing news articles or non-academic material, it is acceptable to simply cite sources by: 
+* When citing news articles or other non-academic material, it is acceptable to simply cite sources by: 
   * adding ([source](https://en.wikipedia.org/wiki/Main_Page)) at the end of the sentence (before the period), 
   * [making the claim itself a link to the source](https://en.wikipedia.org/wiki/Main_Page), 
   * or saying [here](https://en.wikipedia.org/wiki/Main_Page) or [this](https://en.wikipedia.org/wiki/Main_Page). 
