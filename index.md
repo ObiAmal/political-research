@@ -418,7 +418,7 @@ Solutions to Climate Change
 * Jordan Peterson
 * Tucker Carlson
 
-### Appendices
+### [Appendices](appendices)
 * [I: Document Standards](appendices#i-document-standards)
 * [II: Contributors](appendices#ii-contributors)
 * [III: Things to Research](appendices#iii-things-to-research)
