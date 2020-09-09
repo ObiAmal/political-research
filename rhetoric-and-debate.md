@@ -21,7 +21,7 @@
 
 ## Good- and Bad-Faith Debate
 
-I ascribe to the following quote, which comes from John Reed, author of *How to Spot Dishonest Arguments* ([source](https://johntreed.com/blogs/john-t-reed-s-news-blog/60887299-intellectually-honest-and-intellectually-dishonest-debate-tactics)): 
+The following quote comes from John Reed, author of *How to Spot Dishonest Arguments* ([source](https://johntreed.com/blogs/john-t-reed-s-news-blog/60887299-intellectually-honest-and-intellectually-dishonest-debate-tactics)), and is worth considering: 
 
 “There are only two intellectually-honest debate tactics:
 1. pointing out errors or omissions in your opponent’s facts, and
@@ -61,6 +61,8 @@ And, of course, avoid the fallacies and bad-faith debate tactics discussed later
 
 ## Invalid Argumentative Techniques
 
+### Logical and Statistical Fallacies
+
 *Note:* I created this list myself, but used [this](https://yourlogicalfallacyis.com/), [this](https://www.steelonsteel.com/wp-content/uploads/2019/09/FOTW-2019-List-min.jpg), and [this site](https://thevisualcommunicationguy.com/wp-content/uploads/2015/02/Infographic_LogicalFallaciesCollection_LowRes.jpg) to make sure I didn’t miss any fallacies. 
 
 *Argumentum ad hominem* (*ad hominem* for short) is a logical fallacy where the speaker tries to invalidate an argument by attacking the attributes of the argument’s maker rather than dealing with the argument itself. There are a few specific types of ad hominem arguments: 
@@ -99,7 +101,7 @@ Other important fallacies:
 * *the fallacy fallacy*, which is when a proposition is invalidated because a common argument for the proposition has a fallacy in it. 
 * *loaded question/definition*, when a speaker defines something or asks a question in a biased manner (this is related to the straw man fallacy).
 
-### Logical and Statistical Fallacies
+### Bad-Faith Debate Tactics
 
 *The Gish gallop* is a bad-faith debate tactic where the arguer, instead of trying to have a push-and-pull discussion, will try to overwhelm their opponent with point after point. Often, each of these points could be refuted if they were given individually, but together, it is difficult for the opponent to remember all of them, much less actually respond to them. 
 
@@ -109,7 +111,6 @@ Related is the tactic of *moving the goalposts*. Moving the goalposts occurs whe
 
 *Pivoting*, *a non sequitur*, or *a red herring* is a debate tactic/logical fallacy wherein the speaker will ignore the argument or proposition at hand, and make an entirely irrelevant point. Sometimes, this takes the form of ignoring an opponent’s argument and simply throwing out fallacious critiques of their conclusion. Other times, the speaker will simply change the subject instead of admitting defeat (presumably to insulate themselves from having to admit to being wrong). 
 
-### Bad-Faith Debate Tactics
 ## Substantiating Your Points
 ### Appeals to Authority
 ### Anecdotal Evidence and the Need for Data
