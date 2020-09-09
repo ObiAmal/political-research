@@ -10,13 +10,16 @@
 
 ## Appendix I: Document Standards
 
-Italics, quotes, and definitions
-Italicize the books
-Titles of studies?
-when to use quotes for definitions
-Bolding
-Citing studies
-(source), here, this, links
+Formatting standards: 
+* When defining a new term or phrase, either italicize it or put it in quotations. 
+* Italicize the titles of books but use quotation marks around the titles of studies. 
+* Do not excessively bold: only use it for a few incredibly important points in each chapter. 
+* When citing studies, cite the authors and then the year of publication. For example, [Obi et al. 2020](https://obiamal.github.io/political-research/). Make sure the citation is a link that leads to a website with the actual text of the study (no ResearchGate, for example). 
+* When citing news articles or non-academic material, it is acceptable to simply cite sources by: 
+  * adding ([source](https://en.wikipedia.org/wiki/Main_Page)) at the end of the sentence (before the period), 
+  * saying [here](https://en.wikipedia.org/wiki/Main_Page) or [this](https://en.wikipedia.org/wiki/Main_Page). 
+
+It is *never* acceptable to reference something that cannot be accessed (for example, any quotes from books need to have reliable sources if the book is not publicly available).
 
 ## Appendix II: Contributors
 
