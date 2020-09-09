@@ -27,7 +27,7 @@ I ascribe to the following quote, which comes from John Reed, author of *How to 
 1. pointing out errors or omissions in your opponent’s facts, and
 2. pointing out errors or omissions in your opponent’s logic.” 
 
-Similar is Paul Graham’s [Pyramid of Disagreement](http://www.paulgraham.com/disagree.html), which argues that there is a “hierarchy of disagreement”, where the higher-up forms of disagreement are more intellectually honest. Wikipedia contains [this helpful diagram](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)#/media/File:Graham's_Hierarchy_of_Disagreement-en.svg) which summarizes the Pyramid. It might seem obvious, but being conscious about your aims can help you stay focused in the heat of a debate.
+Similar is Paul Graham’s [Pyramid of Disagreement](http://www.paulgraham.com/disagree.html), which argues that there is a “hierarchy of disagreement”, where the higher-up forms of disagreement are more intellectually honest. Wikipedia contains [this helpful diagram](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)#/media/File:Graham's_Hierarchy_of_Disagreement-en.svg) which summarizes Graham's points. The pyramid might seem obvious, but being conscious about your aims can help you stay focused in the heat of a debate.
 
 <p align="center">
   <img width="600" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Graham%27s_Hierarchy_of_Disagreement-en.svg/1280px-Graham%27s_Hierarchy_of_Disagreement-en.svg.png">
