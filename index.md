@@ -418,6 +418,12 @@ Solutions to Climate Change
 * Jordan Peterson
 * Tucker Carlson
 
+### Appendices
+* I: Document Standards
+* II: Contributors
+* III: Things to Research
+* IV: Other Places to Learn
+
 ---
 
 ## Inspiration and Credit
