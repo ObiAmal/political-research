@@ -2,7 +2,7 @@
 
 This repository aims to ground American political discourse in empirical and rational truth. It collects academic evidence, news stories, and various arguments on politically important issues. Before we can discuss how the world ought to change, we must agree on how the world *is*. I am always collecting evidence and new perspectives for this project; if you have either, my Discord is **@ObiAmal#2764**. I also have a YouTube channel accessible [here](https://www.youtube.com/channel/UCuYbZqacrAbk9HvR6UO0fOQ). 
 
-The project is currently *in progress*. Sections without clickable links are not yet completed. Sections with the label \[TBP\] are "to be planned"; the outline may not even be filled out yet.
+The project is currently *in progress*. Sections without clickable links are not yet completed. Sections with the label \[TBP\] are "to be planned"; the outline for these sections may not even be filled out yet.
 
 ### Table of Contents
 
@@ -17,6 +17,7 @@ The project is currently *in progress*. Sections without clickable links are not
 * [National Demographics](basic-demographics#national-demographics)
 * [Wealth Demographics](basic-demographics#wealth-demographics)
 * [Political Demographics](basic-demographics#political-demographics)
+  * [Intelligence and Political Leanings](basic-demographics#intelligence-and-political-leanings)
 * [Religious Demographics](basic-demographics#religious-demographics)
 
 #### Rhetoric and Debate
