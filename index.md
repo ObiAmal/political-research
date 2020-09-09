@@ -419,9 +419,9 @@ Solutions to Climate Change
 * Tucker Carlson
 
 ### [Appendices](appendices)
-* [I: Document Standards](appendices#i-document-standards)
-* [II: Contributors](appendices#ii-contributors)
-* [III: Other Places to Learn](appendices#iv-other-places-to-learn)
+* [I: Document Standards](appendices#appendix-i-document-standards)
+* [II: Contributors](appendices#appendix-ii-contributors)
+* [III: Other Places to Learn](appendices#appendix-iii-other-places-to-learn)
 
 ---
 
