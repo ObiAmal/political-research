@@ -1,4 +1,4 @@
-## Basic Demographics of the U.S.
+# Basic Demographics of the U.S.
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-### National Demographics
+## National Demographics
 
 This data is taken from the [U.S. Census Bureau QuickFacts page](https://www.census.gov/quickfacts/fact/table/US/PST045219), dated July 1st, 2019. At this time, the United States’ population was approximately 328 million (as of 2020, sources estimate 329 million), and it has grown approximately 6.3% since 2010. More detailed data (on age, sex, by-state data, and so on) is [here](https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf). 
 
@@ -50,7 +50,7 @@ Another slightly dated [study](https://williamsinstitute.law.ucla.edu/publicatio
 
 *Interesting note:* according to a Gallup poll, Americans significantly overestimate [the LGBT population](https://news.gallup.com/poll/259571/americans-greatly-overestimate-gay-population.aspx) and [the Black and Hispanic population](https://news.gallup.com/poll/4435/Public-Overestimates-US-Black-Hispanic-Populations.aspx). 
 
-### Wealth Demographics
+## Wealth Demographics
 
 The Pew Research Center created [a report](https://www.pewsocialtrends.org/2020/01/09/trends-in-income-and-wealth-inequality/) with series of charts that illustrate economic inequality in this country. The first graph focuses on the increasing income inequality, and the second focuses on the increasing weal inequality. 
 
@@ -74,7 +74,7 @@ Other statistics:
 
 Finally, economic inequality along lines of race, gender, and sexuality are found in the chapters "Racism", "Sexism", and "Homophobia and Transphobia". 
 
-### Political Demographics
+## Political Demographics
 
 According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-trends-in-party-affiliation-among-demographic-groups/), 50% of Americans lean Democrat, compared to 42% who lean Republican. However, only 33% of the population identify *precisely* as Democrats and only 26% identify *precisely* as Republicans (37% identify as independent). 
 
@@ -111,7 +111,7 @@ Jewish people are overwhelmingly Democrat (67% to 31%), as are religiously unaff
 
 Urban voters lean heavily Democrat (62% to 31%), suburban counties barely lean Democrat (47% to 45%), and rural countries lean Republican (54% to 38%). 
 
-#### Intelligence and Political Leanings
+ ### Intelligence and Political Leanings
 
 [Stankov and Lee 2015](https://journals.sagepub.com/doi/abs/10.1177/0022022115611749) found that “gross domestic product (GDP) per capita, cognitive test performance, and governance indicators were found to be low in the most conservative group and high in the most liberal group”. In the earlier study [Stankov 2009](https://www.sciencedirect.com/science/article/pii/S0160289609000051) by the same author, it was found that "conservatism correlates negatively with measures of cognitive ability and educational achievement at both individual and country levels of analysis." 
 
@@ -125,7 +125,7 @@ Studies of party affiliation are less conclusive. [Carl 2014](https://www.scienc
 
 A year later, Ganzach critiques himself and Carl in [Ganzach 2017](https://www.sciencedirect.com/science/article/pii/S0160289616302677). This study notes that academic consensus is that "intelligence is positively correlated with liberal attitudes", and wonders why, even after controlling for socioeconomic status and racial identity, there is no positive correlatation between intelligence and Democratic Affiliation (since Democratic Affiliation and liberal attitudes are closely correlated). Ganzach realizes that "both Carl and Ganzach's conclusions were based on the GSS surveys conducted between 1972 and 2012, years in which the relationship between social and economic attitudes and party affiliation in the American electorate changed considerably (Layman & Carsey, 2002)." Essentially, the point is that both of these studies are flawed as measurements of current-day associations between intelligence and party affiliation, because "although in recent years liberal attitudes are strongly associated with DA \[Democratic Affiliation\], this association was weaker in earlier times". Thus, he isolates the data by decade, and indeed finds that "the relationship between liberal attitudes and DA became more positive during the years. This positive relationship was rather weak in the 1970s and considerably strengthened in later years".
 
-### Religious Demographics
+## Religious Demographics
 
 This data comes from [this Pew Research poll](https://www.pewforum.org/religious-landscape-study/). 
 
