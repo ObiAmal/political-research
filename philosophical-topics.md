@@ -1,8 +1,5 @@
 # Interesting Philosophical Topics
 
----
-
-#### [Interesting Philosophical Topics](philosophical-topics)
 * [The Nature of "Politics"](philosophical-topics#the-nature-of-politics)
 * [Descriptive vs. Prescriptive Statements](philosophical-topics#descriptive-vs-prescriptive-statements)
 * [*A Priori* vs. *A Posteriori* Justifications](philosophical-topics#a-priori-vs-a-posteriori-justifications)
