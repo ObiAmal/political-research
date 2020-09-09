@@ -1,5 +1,16 @@
 # Interesting Philosophical Topics
 
+---
+
+#### [Interesting Philosophical Topics](philosophical-topics)
+* [The Nature of "Politics"](philosophical-topics#the-nature-of-politics)
+* [Descriptive vs. Prescriptive Statements](philosophical-topics#descriptive-vs-prescriptive-statements)
+* [*A Priori* vs. *A Posteriori* Justifications](philosophical-topics#a-priori-vs-a-posteriori-justifications)
+* [Epistemic Injustice](philosophical-topics#epistemic-injustice)
+* [Adaptive Preferences](philosophical-topics#adaptive-preferences)
+
+---
+
 ## The Nature of “Politics”
 
 *This section is inspired by and draws from Martha Nussbaum’s book "Creating Capabilities". Any quotes which are followed by (page \_\_\_) are taken from that page of the first edition of said book.*
