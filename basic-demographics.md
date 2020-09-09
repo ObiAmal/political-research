@@ -66,7 +66,9 @@ Finally, economic inequality along lines of race, gender, and sexuality are foun
 
 ## Political Demographics
 
-According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-trends-in-party-affiliation-among-demographic-groups/), 50% of Americans lean Democrat, compared to 42% who lean Republican. However, only 33% of the population identify *precisely* as Democrats and only 26% identify *precisely* as Republicans (37% are independent). Since 1994, the percentage of Democrats hasn’t changed, but the percentage of independents has risen by 7% (the percentage of Republicans has dropped by 7%).
+According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-trends-in-party-affiliation-among-demographic-groups/), 50% of Americans lean Democrat, compared to 42% who lean Republican. However, only 33% of the population identify *precisely* as Democrats and only 26% identify *precisely* as Republicans (37% identify as independent). 
+
+*Interesting note*: Since 1994, the percentage of Democrats hasn’t changed, but the percentage of independents has risen by 7%, while the percentage of Republicans has dropped by 7%.
 
 *Political leaning by sex:*
 * 48% of men lean Republican and 44% lean Democrat. 
@@ -85,13 +87,11 @@ According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-tren
 * For those with postgraduate experience, 63% lean Democrat and 31% lean Republican. 
 
 Following is a (slightly dated) discussion of income differences between Republicans and Democrats. 
-* https://www.payscale.com/career-news/2012/10/what-you-earn-vs-how-you-vote-infographic
-* https://www.pewresearch.org/politics/2009/05/21/section-1-party-affiliation-and-composition/
-* https://assets.pewresearch.org/wp-content/uploads/sites/5/2016/09/09-13-16-Party-ID-Combined-Detailed-Tables.pdf
+* According to [this infographic](https://www.payscale.com/career-news/2012/10/what-you-earn-vs-how-you-vote-infographic) from PayScale's study of the 2012 election, the poorer you are, the more likely you were to vote for Obama. Among voters making less than $25,000 per year, over 60% supported Obama (compared to just over 30% who supported Romney). 
+* Obama beat Romney up until around $70,000 per year, at which point Romney became more popular. Romney's support continued to rise: with voters making over $200,000 per year, he enjoyed 55% support.
+* This trend, where poorer people tend to vote Democrat, was true in 2009 ([source](https://www.pewresearch.org/politics/2009/05/21/section-1-party-affiliation-and-composition/)) and more recently, in 2016 ([source](https://assets.pewresearch.org/wp-content/uploads/sites/5/2016/09/09-13-16-Party-ID-Combined-Detailed-Tables.pdf)). In particular, among those making less than $30,000 per year, 60% leaned Democrat. Republicans enjoyed a slim (3-4%) advantage among the richer groups. 
 
-Many low-income Republicans agree with progressive economic policies, but far more high-income Republicans do not ([source](https://www.voterstudygroup.org/publication/on-the-money)). Interestingly, this pattern *does not hold* for Democrats, which are fairly unified in their support for progressive economic measures regardless of income (high-income Democrats are actually *more* likely in some cases to support progressive economic policies). The report also finds that Republicans with more economically progressive ideas (that is, poorer Republicans) were more likely to vote against Trump in the 2016 election.
-
-[Studies](https://journals.sagepub.com/doi/abs/10.1177/0022022115611749) have found that “gross domestic product (GDP) per capita, cognitive test performance, and governance indicators” are lower in conservative countries than liberal countries. Furthermore, [social conservatism](https://www.researchgate.net/publication/222682950_Conservatism_and_cognitive_ability) is negatively correlated with tested cognitive ability ([here](https://journals.sagepub.com/doi/abs/10.1177/0956797611421206) is another corroborating study). On the other hand, [this study](https://www.researchgate.net/publication/265852713_Cognitive_ability_and_party_identity_in_the_United_States) finds that “individuals who identify as Republican have slightly higher verbal intelligence than those who identify as Democrat” but mostly attributes this difference to increased socioeconomic status (see the section “Intelligence and Class” for more on how socioeconomic status is related to IQ). It agrees that there is lower intelligence among those who are socially conservative. 
+Many low-income Republicans agree with progressive economic policies, but far fewer high-income Republicans do ([source](https://www.voterstudygroup.org/publication/on-the-money)). Interestingly, this pattern *does not hold* for Democrats, which are fairly unified in their support for progressive economic measures regardless of income (high-income Democrats are actually *more* likely, in some cases, to support progressive economic policies). The report also finds that Republicans with more economically progressive ideas (that is, poorer Republicans) were more likely to vote against Trump in the 2016 election. 
 
 *Political leaning by religion:*
 White non-Hispanic evangelical Protestants are more likely to lean Republican (77%) than Democrat (18%). However, mainline Protestants are more even at 53% Rep. and 41% Dem. 
@@ -100,6 +100,26 @@ Mormons are overwhelmingly Republican (72% to 22%), and non-Hispanic white Catho
 Jewish people are overwhelmingly Democrat (67% to 31%), as are religiously unaffiliated people (68% to 22%). 
 
 Urban voters lean heavily Democrat (62% to 31%), suburban counties barely lean Democrat (47% to 45%), and rural countries lean Republican (54% to 38%). 
+
+### Intelligence and Political Leanings
+
+As for "intelligence", [Stankov and Lee 2015](https://journals.sagepub.com/doi/abs/10.1177/0022022115611749) found that “gross domestic product (GDP) per capita, cognitive test performance, and governance indicators were found to be low in the most conservative group and high in the most liberal group”. The same author found, in the earlier study [Stankov 2009](https://www.sciencedirect.com/science/article/pii/S0160289609000051) found that "conservatism correlates negatively with measures of cognitive ability and educational achievement at both individual and country levels of analysis." 
+
+Furthermore, [Hodson and Busseri 2012](https://journals.sagepub.com/doi/abs/10.1177/0956797611421206), a study carried out in the U.K., found that "lower cognitive ability predicts greater prejudice, an effect mediated through the endorsement of right-wing ideologies (social conservatism, right-wing authoritarianism) and low levels of contact with out-groups" (note that in this context "mediated" means *brought about by*). The study, which controlled for education and socioeconomic status, also found that there was "a predictive effect of poor abstract-reasoning skills on antihomosexual prejudice, a relation partially mediated by both authoritarianism and low levels of intergroup contact."
+
+On the other hand, [Carl 2014](https://www.sciencedirect.com/science/article/pii/S0160289614001081) finds that “individuals who identify as Republican have slightly higher verbal intelligence than those who identify as Democrat” but says that this difference is largely accountable to conservatives' increased socioeconomic status (see the section “Intelligence and Class” for more on how socioeconomic status is related to IQ). Even this study agrees that there is lower intelligence among those who are socially conservative.
+ - https://www.sciencedirect.com/science/article/pii/S0160289616300277 response finds no significant difference between Democrats and Republicans after controlling properly for socioeconomic status and racial identity
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/per.2027
+"Fifty-seven studies showed negative relations, nine showed positive relations and one showed a correlation of approximately 0. The meta-analysis (for all results, see Table 2) revealed an overall moderate negative relation, r=.20, p<.001. In other words, lower cognitive ability was associated with the stronger endorsement of right-wing ideological attitudes."
+
+https://pubmed.ncbi.nlm.nih.gov/12784934/
+"A meta-analysis (88 samples, 12 countries, 22,818 cases) confirms that several psychological variables predict political conservatism: death anxiety (weighted mean r = .50); system instability (.47); dogmatism-intolerance of ambiguity (.34); openness to experience (-.32); uncertainty tolerance (-.27); needs for order, structure, and closure (.26); integrative complexity (-.20); fear of threat and loss (.18); and self-esteem (-.09). The core ideology of conservatism stresses resistance to change and justification of inequality and is motivated by needs that vary situationally and dispositionally to manage uncertainty and threat."
+
+There have been quite a few studies on the psychology of party affiliation. 
+
+https://www.sciencedirect.com/science/article/pii/S0160289616302677
+Most studies in this area suggest that intelligence is positively correlated with liberal attitudes (Deary et al., 2008a, Deary et al., 2008b, Heaven et al., 2011, Hodson and Busseri, 2012, Kanazawa, 2010, Pesta and McDaniel, 2014, Pesta et al., 2010, Schoon et al., 2010, Stankov, 2009).
 
 ## Religious Demographics
 
