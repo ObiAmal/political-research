@@ -97,7 +97,7 @@ Other important fallacies:
 * *personal incredulity*, when a speaker invalidates a proposition due to personal disbelief
 * *the gambler’s fallacy*, when a speaker tries to find a pattern in statistically independent events
 * *the fallacy fallacy*, which is when a proposition is invalidated because a common argument for the proposition has a fallacy in it. 
-* *loaded question/definition*, when a speaker defines something or asks a question in a biased manner (this is related to the straw man fallacy).
+* *loaded question/definition*, when a speaker defines something or asks a question in a biased manner. This is related to the straw man fallacy.
 
 ### Bad-Faith Debate Tactics
 
