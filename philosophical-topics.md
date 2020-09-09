@@ -1,4 +1,4 @@
-# Interesting Philosophical Topics
+## Interesting Philosophical Topics
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## The Nature of “Politics”
+### The Nature of “Politics”
 
 *This section is inspired by and draws from Martha Nussbaum’s book "Creating Capabilities". Any quotes which are followed by (page \_\_\_) are taken from that page of the first edition of said book.*
 
