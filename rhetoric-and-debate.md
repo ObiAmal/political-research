@@ -37,8 +37,6 @@ In short, a bad-faith actor is someone who does not enter a debate to learn or p
 
 ## Valid Argumentative Techniques
 
-In general, there are many more ways to be wrong than there are ways to be right. For this reason, analyzing valid argumentative techniques is much more simple than analyzing invalid ones. 
-
 ### Logical Steps
 
 When trying to prove a statement *deductively* (with pure logic), one should rely on the [rules of inference](https://en.wikipedia.org/wiki/List_of_rules_of_inference), the [rules of replacement](https://en.wikipedia.org/wiki/Rule_of_replacement), and the [valid syllogistic forms](http://markmcintire.com/phil/validforms.html#). There is no need to list them out here: virtually all valid rules or forms are immediately intuitive, and almost all invalid rules or forms are obviously invalid (though some find the ideas of [existential import](http://cstl-cla.semo.edu/hhill/pl120/notes/existential%20import.htm) and the [existential fallacy](https://en.wikipedia.org/wiki/Existential_fallacy) genuinely confusing). One interesting technique in pure logic is proof by contradiction. This argumentative technique is also called *[reductio ad absurdum](https://iep.utm.edu/reductio/)*, and begins with the acceptance of a position, and the derivation of something absurd (in the logical sense). 
@@ -103,11 +101,11 @@ Other important fallacies:
 
 ### Bad-Faith Debate Tactics
 
-*The Gish gallop* is a bad-faith debate tactic where the arguer, instead of trying to have a push-and-pull discussion, will try to overwhelm their opponent with point after point. Often, each of these points could be refuted if they were given individually, but together, it is difficult for the opponent to remember all of them, much less actually respond to them. 
+*The Gish gallop* is a bad-faith debate tactic where the arguer, instead of trying to have a two-way discussion, will try to overwhelm their opponent with point after point. Often, each of these points could be refuted if they were given individually, but together, it is difficult for the opponent to remember all of them, much less actually respond to them. 
 
 *The Motte-and-Bailey tactic* occurs when an arguer holds a fairly controversial position (the “bailey”), and, upon being challenged, retreats to a much easier-to-defend position (the “motte”). By conflating the bailey with the motte, if their opponent cannot reject the motte, they can claim that they have proven the bailey. For example, a famous anti-intellectual motte-and-bailey argument uses the bailey “scientific knowledge cannot be trusted” but the motte “scientists have been wrong in the past”. 
 
-Related is the tactic of *moving the goalposts*. Moving the goalposts occurs when a speaker holds a position justified by a fallacious argument, and when said argument is disproven, refuses to accept it, instead creating a new argument that justifies an easier-to-defend position. The new argument is often fallacious itself, and so the cycle can continue. The reason why this is considered a bad-faith tactic is because, if the speaker was trying to have a Socratic dialogue, they would begin with their actual position and strongest argument for it. 
+Related is the tactic of *moving the goalposts*. Moving the goalposts occurs when a speaker holds a position justified by a fallacious argument, and when said argument is disproven, refuses to accept it, instead creating a new argument that justifies an easier-to-defend position. The new argument is often fallacious itself, and so the cycle can continue. The reason why this is considered a bad-faith tactic is because, if the speaker was trying to have a Socratic dialogue, they would begin with their actual position and the strongest argument for it. 
 
 *Pivoting*, *a non sequitur*, or *a red herring* is a debate tactic/logical fallacy wherein the speaker will ignore the argument or proposition at hand, and make an entirely irrelevant point. Sometimes, this takes the form of ignoring an opponent’s argument and simply throwing out fallacious critiques of their conclusion. Other times, the speaker will simply change the subject instead of admitting defeat (presumably to insulate themselves from having to admit to being wrong). 
 
