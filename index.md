@@ -4,7 +4,7 @@ This repository aims to ground American political discourse in empirical and rat
 
 The project is currently *in progress*. Sections without clickable links are not yet completed. Sections with the label \[TBP\] are "to be planned"; the outline for these sections may not even be filled out yet.
 
-*Note:* Allegedly, one can place https://sci-hub.tw/ or https://scihub.wikicn.top/ before the URL of a study to bypass its paywall. I wouldn’t know, however, as I’ve never done it.
+*Note:* Allegedly, one can place https://sci-hub.tw/ or https://scihub.wikicn.top/ before the URL of a study to bypass any paywalls it might be hidden behind. I wouldn’t know, however, as I’ve never done it.
 
 ### Table of Contents
 
