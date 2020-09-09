@@ -17,7 +17,8 @@ Formatting standards:
 * When citing studies, cite the authors and then the year of publication. For example, [Obi et al. 2020](https://obiamal.github.io/political-research/). Make sure the citation is a link that leads to a website with the actual text of the study (no ResearchGate, for example). 
 * When citing news articles or non-academic material, it is acceptable to simply cite sources by: 
   * adding ([source](https://en.wikipedia.org/wiki/Main_Page)) at the end of the sentence (before the period), 
-  * saying [here](https://en.wikipedia.org/wiki/Main_Page) or [this](https://en.wikipedia.org/wiki/Main_Page). 
+  * [making the claim itself a link to the source](https://en.wikipedia.org/wiki/Main_Page), 
+  * or saying [here](https://en.wikipedia.org/wiki/Main_Page) or [this](https://en.wikipedia.org/wiki/Main_Page). 
 
 It is *never* acceptable to reference something that cannot be accessed (for example, any quotes from books need to have reliable sources if the book is not publicly available).
 
