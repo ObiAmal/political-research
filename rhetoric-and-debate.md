@@ -22,9 +22,14 @@
 ## Good- and Bad-Faith Debate
 
 I ascribe to the following quote, which comes from John Reed, author of *How to Spot Dishonest Arguments* ([source](https://johntreed.com/blogs/john-t-reed-s-news-blog/60887299-intellectually-honest-and-intellectually-dishonest-debate-tactics)): 
+
 “There are only two intellectually-honest debate tactics:
 1. pointing out errors or omissions in your opponent’s facts, and
 2. pointing out errors or omissions in your opponent’s logic.” 
+
+Similar is Paul Graham’s [Pyramid of Disagreement](http://www.paulgraham.com/disagree.html), which argues that there is a “hierarchy of disagreement”, where the higher-up forms of disagreement are more intellectually honest. Wikipedia contains [this helpful diagram](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)#/media/File:Graham's_Hierarchy_of_Disagreement-en.svg) on the matter, which might seem obvious but can be forgotten in the heat of a debate. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Graham%27s_Hierarchy_of_Disagreement-en.svg/1280px-Graham%27s_Hierarchy_of_Disagreement-en.svg.png)
 
 ## Valid Argumentative Techniques
 ### Logical Steps
