@@ -5,11 +5,24 @@
 * [I: Document Standards](appendices#i-document-standards)
 * [II: Contributors](appendices#ii-contributors)
 * [III: Things to Research](appendices#iii-things-to-research)
-* [IV: Other Places to Learn](appendices#iv-other-places-to-learn)
 
 ---
 
 ## I: Document Standards
+
+Italics, quotes, and definitions
+Italicize the books
+Titles of studies?
+when to use quotes for definitions
+Bolding
+Citing studies
+(source), here, this, links
+
 ## II: Contributors
-## III: Things to Research
-## IV: Other Places to Learn
+
+*Project Creator*: Obi Amal
+* Discord: **@ObiAmal#2764**
+* Reddit: u/ObiAmal
+
+## III: Other Places to Learn
+
