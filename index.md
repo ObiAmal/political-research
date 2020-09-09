@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 This repository aims to ground discourse on American politics in empirical and logical truth. It collects academic evidence, news stories, and various arguments on important issues. Before we can discuss how the world ought to change, we must agree on how the world *is*. I am always collecting new perspectives and evidence for this project; if you have either, my Discord is **@ObiAmal#2764**. I also have a [YouTube channel](https://www.youtube.com/channel/UCuYbZqacrAbk9HvR6UO0fOQ) where I discuss political issues through this rational lens. 
 
@@ -6,23 +6,25 @@ This repository aims to ground discourse on American politics in empirical and l
 
 The project is currently *in progress*. Sections without clickable links are not yet completed. Sections with the label \[TBP\] are "to be planned"; the outline for these sections may not even be filled out yet.
 
-### Table of Contents
+---
 
-#### [Interesting Philosophical Topics](philosophical-topics)
+## Table of Contents
+
+### [Interesting Philosophical Topics](philosophical-topics)
 * [The Nature of "Politics"](philosophical-topics#the-nature-of-politics)
 * [Descriptive vs. Prescriptive Statements](philosophical-topics#descriptive-vs-prescriptive-statements)
 * [*A Priori* vs. *A Posteriori* Justifications](philosophical-topics#a-priori-vs-a-posteriori-justifications)
 * [Epistemic Injustice](philosophical-topics#epistemic-injustice)
 * [Adaptive Preferences](philosophical-topics#adaptive-preferences)
 
-#### [Basic Demographics of the U.S.](basic-demographics)
+### [Basic Demographics of the U.S.](basic-demographics)
 * [National Demographics](basic-demographics#national-demographics)
 * [Wealth Demographics](basic-demographics#wealth-demographics)
 * [Political Demographics](basic-demographics#political-demographics)
   * [Intelligence and Political Leanings](basic-demographics#intelligence-and-political-leanings)
 * [Religious Demographics](basic-demographics#religious-demographics)
 
-#### Rhetoric and Debate
+### [Rhetoric and Debate](rhetoric-and-debate)
 * Good- and Bad-Faith Debate
 * Valid Argumentative Techniques
    * Logical Steps
@@ -38,7 +40,7 @@ The project is currently *in progress*. Sections without clickable links are not
    * Correlation and Causation
 * The Pyschology of Changing Minds
 
-#### Racism
+### Racism
 * Explicit Racism
    * Neo-Nazism, White Supremacy, and White Nationalism
    * "Race Realism" and Genetics
@@ -78,7 +80,7 @@ The project is currently *in progress*. Sections without clickable links are not
    * Historical Racism Against Asian-Americans
    * Modern Racism Against Asian-Americans
 
-#### Immigration and Xenophobia
+### Immigration and Xenophobia
 * Trends in Immgration to the U.S.
 * Immigration and the Economy
   * Immigrants Don't Steal Native Jobs
@@ -95,7 +97,7 @@ The project is currently *in progress*. Sections without clickable links are not
   * Taxes, Social Security, and Public Benefits
   * Idiocy of Mass Deportation
 
-#### Sexism
+### Sexism
 * Explicit Sexism
   * Enforcing Traditional Gender Roles
   * Domestic Violence
@@ -121,7 +123,7 @@ The project is currently *in progress*. Sections without clickable links are not
   * Incels and Violence
   * The SCUM Manifesto and "Man Hating"
 
-#### Abortion
+### Abortion
 * The History of Abortion
   * The History of Dangerous and Illegal Abortion
   * Countries Where Abortion is Illegal
@@ -141,7 +143,7 @@ The project is currently *in progress*. Sections without clickable links are not
   * Consequentialist Arguments For Abortion
   * Judith Jarvis Thompson's Arguments For Abortion
 
-#### Homophobia and Transphobia
+### Homophobia and Transphobia
 * Explicit Homophobia and Transphobia
   * Religion-Based Homophobia
   * Violence Against LGBTQ+ People
@@ -159,13 +161,13 @@ The project is currently *in progress*. Sections without clickable links are not
   * The Suicide Rate of Trans People
   * Transgender Healthcare
 
-#### GSRM and LGBTQ+ Issues \[TBP\]
+### GSRM and LGBTQ+ Issues \[TBP\]
 
-#### Other Forms of Discrimination \[TBP\]
+### Other Forms of Discrimination \[TBP\]
 * Ableism
 * Discrimination by Appearance
 
-#### Climate Change
+### Climate Change
 * Scientific Consensus
 * Evidence for Climate Change
   * The Rise in CO<sub>2</sub>
@@ -207,14 +209,14 @@ Solutions to Climate Change
     * The Importance of the Paris Agreement for the U.S.
   * The Green New Deal
 
-#### Other Environmental Issues
+### Other Environmental Issues
   * Pollution and Waste
     * Air Pollution
   * Overfishing and Failures of Agriculture
   * A Mass Extinction Events
     * The Positives of Trophy Hunting
 
-#### Religion
+### Religion
   * The Sociopolitical Power of Christianity
   * The Moral Failures of Christianity
     * Historical Failures
@@ -230,17 +232,17 @@ Solutions to Climate Change
   * Islam \[TBP\]
   * Hinduism \[TBP\]
 
-#### Protests and Free Speech \[TBP\]
+### Protests and Free Speech \[TBP\]
 
-#### Capitalism and Economics \[TBP\]
+### Capitalism and Economics \[TBP\]
   
-#### Classism \[TBP\]
+### Classism \[TBP\]
 * Hostile Design
 * Intelligence and Class
 
-#### Socialism and Economics \[TBP\]
+### Socialism and Economics \[TBP\]
 
-#### Modern Fascism and neo-Nazism
+### Modern Fascism and neo-Nazism
 * The Ideology of Fascism
   * Proto-Fascism
   * Eco-Fascism
@@ -252,14 +254,14 @@ Solutions to Climate Change
   * Antifa (Purpose and Accomplishments)
   * Alt-Right Violence vs. Leftist Violence
 
-#### Healthcare
+### Healthcare
 * Problems with the Current System
 * The Affordable Care Act
 * Medicare for All
 * Socialized Healthcare
 * Guns and Gun Control
 
-#### Media and Misinformation
+### Media and Misinformation
 * Misinformation in the News
 * Misinformation on Social Media
 * Where to Find Reliable Information
@@ -274,7 +276,7 @@ Solutions to Climate Change
   * Koch Brothers
   * Bloomberg
 
-#### The Education System
+### The Education System
 * Sex Eduation
 * Math Education
   * Math Anxiety and Sexism
@@ -285,7 +287,7 @@ Solutions to Climate Change
 * College and the Economy
   * The Importance of Free College
 
-#### Drugs
+### Drugs
 * Alcohol and Cigarettes
   * Medical Effects of Alcohol
   * Cigarettes vs. Vaping
@@ -298,7 +300,7 @@ Solutions to Climate Change
   * Crack and Powder Cocaine
 * The War on Drugs
 
-#### Sex Workers
+### Sex Workers
 * The Porn Industry
   * Is the Porn Industry Exploitative?
   * Is Watching Porn Harmful?
@@ -310,12 +312,12 @@ Solutions to Climate Change
 * Sex Trafficking
 * SWERFs
 
-#### The Police and Prison System
+### The Police and Prison System
 * The Police Force is Fundamentally Broken
 * Private Prisons
 * Mass Incarceration and Slavery
 
-#### The U.S. Is Not the Greatest Country in the World
+### The U.S. Is Not the Greatest Country in the World
 * Blots on History
   * The Founding Fathers' Characters
   * Genocide of Indigeneous People
@@ -329,7 +331,7 @@ Solutions to Climate Change
   * Accomplishments
   * Historical Influence
 
-#### Democracy and Voting Systems
+### Democracy and Voting Systems
 * Direct and Representative Democracy
 * The Two-Party System
   * How to Encourage Third Party Growth
@@ -341,7 +343,7 @@ Solutions to Climate Change
   * The Advantages of Single Transferrable Vote
   * Other Voting Systems
 
-#### Relevant Global Issues
+### Relevant Global Issues
 * Israel and Palestine
   * Critiquing Israel Without Being Anti-Semitic
 * China's Authoritarianism
@@ -352,7 +354,7 @@ Solutions to Climate Change
   * World Hunger and Thirst
   * Solutions to World Poverty, Hunger, and Thirst
 
-#### Coronavirus
+### Coronavirus
 * The Facts About Coronavirus
   * The Morality Rate
 * The CCP Cover-up
@@ -368,7 +370,7 @@ Solutions to Climate Change
   * No, BLM Protests Aren't Causing a Spike
   * 6% and Misunderstanding Comorbidity
 
-#### Miscellaneous
+### Miscellaneous
 * Crazy Conspiracy Theories
   * Anti-Vaxxers
   * 5G Conspiracy Theorists
@@ -378,9 +380,9 @@ Solutions to Climate Change
   * Moon-Truthers
 * Generational Shift
 
-#### A Messy List of "Bad Studies"
+### A Messy List of "Bad Studies"
 
-#### Female and BIPOC Philosophical Figures
+### Female and BIPOC Philosophical Figures
 * Mary Wollstonecraft
 * Simone de Beauvoir
 * Mary Anne Warren
@@ -394,7 +396,7 @@ Solutions to Climate Change
 * Ta-Nehisi Coates
 * Ibram X. Kendi
 
-#### Relevant Political Figures
+### Relevant Political Figures
 * Donald Trump
   * Political Platform
   * Trump's Favorite Actions as President
@@ -416,5 +418,7 @@ Solutions to Climate Change
 * Jordan Peterson
 * Tucker Carlson
 
-### Inspiration and Credit
+---
+
+## Inspiration and Credit
 This document was inspired by [The Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE), which drew on the document [Systemic Racism in The United States](https://docs.google.com/document/d/1OIVHtml45EcMSi3suI5Zn1ymef5Y-8hnHbeY6kxp-ec). It is also inspired by the [Source Library](https://docs.google.com/document/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/); the idea to host this project on Github Pages came from the Source Library's author doing the same [here](https://nb419.github.io/source-library/). I read through each of these documents, choosing the best sources from each to add to my own research. 
