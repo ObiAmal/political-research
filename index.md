@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository aims to ground discourse on American politics in empirical and logical truth. It collects academic evidence, news stories, and various arguments on important issues. Before we can discuss how the world ought to change, we must agree on how the world *is*. I am always collecting new perspectives and evidence for this project; if you have either, my Discord is **@ObiAmal#2764**. I also have a [YouTube channel](https://www.youtube.com/channel/UCuYbZqacrAbk9HvR6UO0fOQ) where I discuss political issues through this rational lens. 
+This repository aims to ground discourse about American politics in empirical and logical truth. It collects academic evidence, news stories, and various arguments on important issues. Before we can discuss how the world ought to change, we must agree on how the world *is*. I am always collecting new perspectives and evidence for this project; if you have either, my Discord is **@ObiAmal#2764**. I also have a [YouTube channel](https://www.youtube.com/channel/UCuYbZqacrAbk9HvR6UO0fOQ) where I discuss political issues through this rational lens. 
 
 *Note:* Allegedly, one can place [sci-hub.tw/](https://sci-hub.tw/) or [scihub.wikicn.top/](https://scihub.wikicn.top/) before the URL of a study to bypass any paywalls it might be hidden behind. I wouldn’t know, however, as I’ve never done it.
 
