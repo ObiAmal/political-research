@@ -26,7 +26,7 @@ Citing studies
 
 ## Appendix III: Other Places to Learn
 
-*Inclusion of a resource in this list is not endorsement of the people who made them. Use each source critically, and do not cite anything you have not actually read.*
+*Inclusion of a resource in this list is not endorsement of the people who made them. Use each source critically, and do not cite anything you have not actually read; these resources are simply a gateway to more evidence to read.*
 
 Best resources: 
 * [The Source Library](https://docs.google.com/document/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/edit)
