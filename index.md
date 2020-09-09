@@ -421,8 +421,7 @@ Solutions to Climate Change
 ### [Appendices](appendices)
 * [I: Document Standards](appendices#i-document-standards)
 * [II: Contributors](appendices#ii-contributors)
-* [III: Things to Research](appendices#iii-things-to-research)
-* [IV: Other Places to Learn](appendices#iv-other-places-to-learn)
+* [III: Other Places to Learn](appendices#iv-other-places-to-learn)
 
 ---
 
