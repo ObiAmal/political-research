@@ -33,6 +33,8 @@ Similar is Paul Graham’s [Pyramid of Disagreement](http://www.paulgraham.com/d
   <img width="600" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Graham%27s_Hierarchy_of_Disagreement-en.svg/1280px-Graham%27s_Hierarchy_of_Disagreement-en.svg.png">
 </p>
 
+In short, a bad-faith actor is someone who does not enter a debate to learn or participate in a Socratic dialogue. It is someone who enters to “win” (usually, this means making themselves appear strong to the audience) and relies on invalid argumentative techniques (as discussed later) to do so. One red flag of a bad-faith actor is a lack of a consistent ideology; obvious contradictions usually means that the actor hasn’t actually grappled with critique. Yet it’s important to remember that calling someone a bad-faith actor to put them down instead of trying to better the conversation is itself bad-faith acting.
+
 ## Valid Argumentative Techniques
 ### Logical Steps
 ### Good-Faith Debate Tactics
