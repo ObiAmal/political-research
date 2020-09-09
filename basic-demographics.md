@@ -96,20 +96,26 @@ According to [2018 polls](https://www.pewresearch.org/politics/2018/03/20/1-tren
 * For those with a college degree but no postgraduate experience, 54% lean Democrat and 39% lean Republican. 
 * For those with postgraduate experience, 63% lean Democrat and 31% lean Republican. 
 
+*Political leaning by religion:*
+* 77% of white non-Hispanic evangelical Protestants lean Republican and 18% lean Democrat.
+* 53% of mainline Protestants lean Republican and 41% lean Democrat.
+* 87% of black Protestants lean Democrat and 7% lean Republican (this is a higher degree of Democrat support than that among arbitrary black people).
+* 72% of Mormons lean Republican and 22% lean Democrat.
+* 54% of non-Hispanic white Catholics lean Republican and 40% lean Democrat. Interestingly, in 1994, this group supported both parties equally (at 45% each).
+* 67% of Jewish people lean Democrat and 31% lean Republican.
+* 68% of religiously unaffiliated people lean Democrat and 22% lean Republican. 
+
+*Political leaning by location:*
+* 62% of urban voters lean Democrat and 31% lean Republican. 
+* 47% of suburban voters lean Democrat and 45% lean Republican.
+* 38% of rural voters lean Democrat and 54% lean Republican.
+
 Following is a (slightly dated) discussion of income differences between Republicans and Democrats. 
 * According to [this infographic](https://www.payscale.com/career-news/2012/10/what-you-earn-vs-how-you-vote-infographic) from PayScale's study of the 2012 election, the poorer you are, the more likely you were to vote for Obama. Among voters making less than $25,000 per year, over 60% supported Obama (compared to just over 30% who supported Romney). 
 * Obama beat Romney up until around $70,000 per year, at which point Romney became more popular. Romney's support continued to rise: with voters making over $200,000 per year, he enjoyed 55% support.
 * This trend, where poorer people tend to vote Democrat, was true in 2009 ([source](https://www.pewresearch.org/politics/2009/05/21/section-1-party-affiliation-and-composition/)) and more recently, in 2016 ([source](https://assets.pewresearch.org/wp-content/uploads/sites/5/2016/09/09-13-16-Party-ID-Combined-Detailed-Tables.pdf)). In particular, among those making less than $30,000 per year, 60% leaned Democrat. Republicans enjoyed a slim (3-4%) advantage among the richer groups. 
 
 Many low-income Republicans agree with progressive economic policies, but far fewer high-income Republicans do ([source](https://www.voterstudygroup.org/publication/on-the-money)). Interestingly, this pattern *does not hold* for Democrats, which are fairly unified in their support for progressive economic measures regardless of income (high-income Democrats are actually *more* likely, in some cases, to support progressive economic policies). The report also finds that Republicans with more economically progressive ideas (that is, poorer Republicans) were more likely to vote against Trump in the 2016 election. 
-
-*Political leaning by religion:*
-White non-Hispanic evangelical Protestants are more likely to lean Republican (77%) than Democrat (18%). However, mainline Protestants are more even at 53% Rep. and 41% Dem. 
-On the other hand, black Protestants are more likely to be Democrat supporters than arbitrary black people: 87% lean Democrat and 7% lean Republican. 
-Mormons are overwhelmingly Republican (72% to 22%), and non-Hispanic white Catholics have recently shifted towards Republicans (from 45-45 in 1994 to 54-40 today). 
-Jewish people are overwhelmingly Democrat (67% to 31%), as are religiously unaffiliated people (68% to 22%). 
-
-Urban voters lean heavily Democrat (62% to 31%), suburban counties barely lean Democrat (47% to 45%), and rural countries lean Republican (54% to 38%). 
 
 ### Intelligence and Political Leanings
 
