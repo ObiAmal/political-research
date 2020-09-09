@@ -20,6 +20,12 @@
 ---
 
 ## Good- and Bad-Faith Debate
+
+I ascribe to the following quote, which comes from John Reed, author of *How to Spot Dishonest Arguments* ([source](https://johntreed.com/blogs/john-t-reed-s-news-blog/60887299-intellectually-honest-and-intellectually-dishonest-debate-tactics)): 
+“There are only two intellectually-honest debate tactics:
+1. pointing out errors or omissions in your opponent’s facts, and
+2. pointing out errors or omissions in your opponent’s logic.” 
+
 ## Valid Argumentative Techniques
 ### Logical Steps
 ### Good-Faith Debate Tactics
