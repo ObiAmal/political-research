@@ -16,7 +16,9 @@
    * [Statistics vs. Studies](rhetoric-and-debate#statistics-vs-studies)
    * [Correlation and Causation](rhetoric-and-debate#correlation-and-causation)
 * [The Pyschology of Changing Minds](rhetoric-and-debate#the-pyschology-of-changing-minds)
-
+   * [The Propagation of Misinformation](rhetoric-and-debate#the-propagation-of-misinformation)
+   * [The Persistance of Misinformation](rhetoric-and-debate#the-persistance-of-misinformation)
+   * [Tactics for Debunking Myths and Changing Minds](rhetoric-and-debate#tactics-for-debunking-myths-and-changing-minds)
 ---
 
 ## Good- and Bad-Faith Debate
@@ -116,3 +118,6 @@ Related is the tactic of *moving the goalposts*. Moving the goalposts occurs whe
 ### Statistics vs. Studies
 ### Correlation and Causation
 ## The Pyschology of Changing Minds
+### The Propagation of Misinformation
+### The Persistance of Misinformation
+### Tactics for Debunking Myths and Changing Minds
