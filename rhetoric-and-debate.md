@@ -131,7 +131,7 @@ On the other hand, the fourth source discussed in the study, **the media**, dese
 
 The Internet, of course, is an important source of misinformation, with the study citing research that has found a substantial portion of online videos on important topics contain misinformation and the prevalence of websites dedicated to sharing hoaxes. Most interesting, perhaps, is that "people who use new media, such as blogs, to source their news report that they find them fairer, more credible, and more in-depth than traditional sources"; this combined with the prevalence of misinformation on the Internet makes it a serious issue.
 
-Finally, the study discusses "increasing media fractionation"; that is, "the growth of cable TV, talk radio, and the Internet have made it easier for people to find news sources that support their existing views, a phenomenon known as *selective exposure*." This leads to the phenomenon of "strategic extremism", where the fractionated media landscape's ability to selective channel information to people that are likely to support it means that it's often in politicians' best interest to adopt extremist positions. 
+Finally, the study discusses "increasing media fractionation", finding that "the growth of cable TV, talk radio, and the Internet have made it easier for people to find news sources that support their existing views, a phenomenon known as *selective exposure*." This leads to the phenomenon of "strategic extremism", where the fractionated media landscape's ability to selective channel information to people that are likely to support it means that it's often in politicians' best interest to adopt extremist positions. 
 
 ### The Persistance of Misinformation
 ### Tactics for Debunking Myths and Changing Minds
