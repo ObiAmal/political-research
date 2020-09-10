@@ -39,6 +39,9 @@ The project is currently *in progress*. Sections without clickable links are not
    * [Statistics vs. Studies](rhetoric-and-debate#statistics-vs-studies)
    * [Correlation and Causation](rhetoric-and-debate#correlation-and-causation)
 * [The Pyschology of Changing Minds](rhetoric-and-debate#the-pyschology-of-changing-minds)
+   * [The Propagation of Misinformation](rhetoric-and-debate#the-propagation-of-misinformation)
+   * [The Persistance of Misinformation](rhetoric-and-debate#the-persistance-of-misinformation)
+   * [Tactics for Debunking Myths and Changing Minds](rhetoric-and-debate#tactics-for-debunking-myths-and-changing-minds)
 
 ### Racism
 * Explicit Racism
