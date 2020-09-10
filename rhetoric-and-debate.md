@@ -149,6 +149,6 @@ This process, by which exposing someone to opposing worldviews makes them more s
 
 [This New Yorker article](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds) and [this NPR podcast](https://www.npr.org/transcripts/743195213) are  two other pieces on the persistence of misinformation that, while they're less academic, are still interesting to read and listen to.
 
-All of this can make correcting misinformation seem hopeless. However, now that we've acknowledged the existing difficulties, we'll discuss the research on how we can overcome them.
+All of this can make correcting misinformation seem hopeless. However, now that we've acknowledged the existing difficulties, we're better prepared to discuss the research on how to overcome them.
 
 ### Tactics for Debunking Myths and Changing Minds
