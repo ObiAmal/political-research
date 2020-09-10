@@ -19,6 +19,7 @@
    * [The Propagation of Misinformation](rhetoric-and-debate#the-propagation-of-misinformation)
    * [The Persistance of Misinformation](rhetoric-and-debate#the-persistance-of-misinformation)
    * [Tactics for Debunking Myths and Changing Minds](rhetoric-and-debate#tactics-for-debunking-myths-and-changing-minds)
+
 ---
 
 ## Good- and Bad-Faith Debate
