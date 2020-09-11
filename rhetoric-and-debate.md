@@ -153,7 +153,7 @@ All of this can make correcting misinformation seem hopeless. However, now that 
 
 ### Tactics for Debunking Myths and Changing Minds
 
-The study [Lewandowsky et al. 2012](https://journals.sagepub.com/doi/full/10.1177/1529100612451018) (and [The Debunking Handbook](https://www.skepticalscience.com/docs/Debunking_Handbook.pdf) which is based on it) uses this graphic to demonstrate best practices when debunking myths: CENTER AND ENLARGEN GRAPHIC
+The study [Lewandowsky et al. 2012](https://journals.sagepub.com/doi/full/10.1177/1529100612451018) (and [The Debunking Handbook](https://www.skepticalscience.com/docs/Debunking_Handbook.pdf) which is based on it) uses this graphic to demonstrate best practices when debunking myths: 
 
 <p align="center">
   <img width="800" src="/images/debunking-misinformation.jpg">
@@ -163,6 +163,7 @@ In particular, the bottom three rows focus on ways to mitigate the three sources
 
 Another interesting study is [Tan et al. 2016](https://dl.acm.org/doi/10.1145/2872427.2883081) ([accessible ArXiv version](https://arxiv.org/pdf/1602.01103v1.pdf)), which analyzed the stylistic choices in successful and unsuccessful conversations on r/ChangeMyView, a subreddit where a user makes an original post asking others to change their view has a bot keep track of when a user's mind is changed in the comments. They found that, indeed, "stylistic choices in how the opinion is expressed carry predictive power." Some of the stylistic choices that they mentioned were: 
 1. **Persuasive arguments tended to use the same [stopwords](https://www.ranks.nl/stopwords)** (words that don't contain content, such as articles, prepositions, and pronouns) as the original post. On the other hand, **persuasive arguments tended to use more *different* content words** than the original post; the study found this to be the single greatest sylistic predictor of an argument's persuasiveness. 
-2. "Definite articles (e.g., “the” instead of “a”) are preferred, which suggests that specificity is important in persuasive arguments."
-3. The study found that "persuasive arguments use a significantly larger absolute number of personal pronouns", such as me, you, and us. 
-4. MORE
+2. Hedging (indicating uncertainty by saying things such as "it could be the case") is more common in persuasive arguments; despite the fear that their presence signals a weaker argument, the authors of the study suggest "they may make an argument easier to accept by softening its tone".
+3. The authors also found that the number of "example markers" such as “for example”, “for instance”, and “e.g.” is "significantly higher in persuasive arguments."
+4. "Definite articles (e.g., “the” instead of “a”) are preferred, which suggests that specificity is important in persuasive arguments."
+5. The study found that "persuasive arguments use a significantly larger absolute number of personal pronouns", such as me, you, and us. 
