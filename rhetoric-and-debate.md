@@ -153,7 +153,7 @@ All of this can make correcting misinformation seem hopeless. However, now that 
 
 ### Tactics for Debunking Myths and Changing Minds
 
-The study [Lewandowsky et al. 2012](https://journals.sagepub.com/doi/full/10.1177/1529100612451018) (and [The Debunking Handbook](https://www.skepticalscience.com/docs/Debunking_Handbook.pdf) which is based on it) uses this graphic to demonstrate best practices when debunking myths: 
+The study [Lewandowsky et al. 2012](https://journals.sagepub.com/doi/full/10.1177/1529100612451018) (and [The Debunking Handbook](https://www.skepticalscience.com/docs/Debunking_Handbook.pdf) which is based on it) uses this graphic to demonstrate best practices when debunking myths: CENTER AND ENLARGEN GRAPHIC
 
 ![](https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/psia/2012/psia_13_3/1529100612451018/20161103/images/medium/10.1177_1529100612451018-fig1.gif)
 
