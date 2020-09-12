@@ -118,6 +118,7 @@ Related is the tactic of *moving the goalposts*. Moving the goalposts occurs whe
 ### The Texas Sharpshooter
 ### Statistics vs. Studies
 ### Correlation and Causation
+
 ## The Pyschology of Changing Minds
 ### The Propagation of Misinformation
 [Lewandowsky et al. 2012](https://journals.sagepub.com/doi/full/10.1177/1529100612451018) is a study on the societal propagation of misinformation, the cognitive processes behind its persistence, and recommendations on its debunking. As the study says, "**it is a truism that a functioning democracy relies on an educated and well-informed populace"**. It also makes an important point to differ between a lack of information and *mis*information; "**ignorance rarely leads to strong support for a cause, in contrast to false beliefs based on misinformation, which are often held strongly and with (perhaps infectious) conviction.**" 
