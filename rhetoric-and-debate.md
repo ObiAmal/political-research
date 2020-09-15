@@ -131,7 +131,9 @@ The argument I make here is discussed in more detail [here](https://scienceornot
 
 A particularly interesting form of selection bias is *survivorship bias*; specifically, it is the error of presenting a subset of your data which has passed a particular test as representative of the entire set of data. A commonly discussed example of survivorship bias is from WWII ([source](https://en.wikipedia.org/wiki/Survivorship_bias#In_the_military)). The statistician Abraham Wald was tasked with deciding where to put armor on fighter planes for the U.S. Since more armor increases weight, decreasing range and maneuverability, Wald’s job was to find the most effective places to add armor. Luckily, the army had been gathering data on the distribution of bullet holes on planes. The distribution looked like this: 
 
-![](https://upload.wikimedia.org/wikipedia/commons/9/98/Survivorship-bias.png)
+<p align="center">
+  <img width="550" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Survivorship-bias.png">
+</p>
 
 The army suggested that the planes should be outfitted with armor on the areas which received the most fire, but Wald disagreed. Wald realized that the army could only collect data on planes *which made it back*; the fact that these returning planes didn’t have bullet holes on the cockpit, engines, middle wing, or back of the fuselage meant that planes that were shot there didn’t make it back. Upon his recommendation, the army added armor to parts of the plane with less bullet holes, a program that ended up being a massive success. 
 
@@ -150,7 +152,25 @@ The Texas Sharpshooter Fallacy refers to when a particular conclusion is drawn b
 The way to avoid this fallacy is to avoid making claims that aren't supported by the *entirety* of the data. If you find data that contradicts your position, and ignore it without a good reason (such as methodological failure), then you may be subconsciously committing the Sharpshooter Fallacy. Similarly, if someone is making an argument that relates to a longer timeframe, larger population, or greater area than they cite, they may be actively selecting for data that agrees with them — and thus committing the Texas Sharpshooter Fallacy. 
 
 ### Why It's Important to Contextualize Data
+
+[This study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6039132/) discusses the important of contextualizing data. It tests the procedure and finds "modest gains by using a contextualized approach". However, more importantly, they argue that "neglecting contextual factors may lead to misdirected substantive conclusions, especially for older racial and ethnic minorities." They conclude that "to enhance the ecological validity of survey data, investigators should select theoretically-meaningful contextual data for specific research questions and consider cross-level interactions." In other words, understanding the context of the people surveyed can avoid making relevant errors such as the ecological fallacy. This can help avoid selection bias and bolster future research. It also allows for an appreciation of way in which situations impact different social groups individually. 
+
 ### Correlation and Causation
+"Correlation is not equal to causation"; it's a phrase that is repeated at nearly every level of grade school and there are plenty of articles that discuss it [here](https://www.bloomberg.com/news/articles/2011-12-01/correlation-or-causation). We won't waste too much time rehashing it here, but for the sake of completeness, we'll cover it briefly, because political figures still make this type of mistake. 
+
+Essentially, a correlation between two variables *A* and *B* simply means that the quantity of *A* helps predict the quantity of *B* other. It doesn't mean *A* causes *B*; *prima facie*, *B* could cause *A* or there could be no causal link: both *A* and *B* could be caused by a third variable, *C*. In other words, a correlation between *A* and *B* does not prove a causal link between them. 
+
+To conclude that *A* causes *B*, scientists use Hill's Nine Criteria of Causation: 
+1. **Strength:** there is a strong correlation.
+2. **Consistency:** the result should be repeatable.
+3. **Specificity:** other explanations have been ruled out.
+4. **Temporality:** the supposed causes happen before effects.
+5. **Gradient:** more of the cause induces more of the effect.
+6. **Plausibility:** the explanation for casuality is plausible; though Hill admitted that sometimes science can't always give an explanation, so he viewed this as a weaker requirement.
+7. **Coherence:** the causal relationship is consistent with other causal relationships.
+8. **Experimentally sound:** it has passed a randomized experiment.
+9. **Analogous:** it's similar to another causal relationship. 
+To learn more about Hill's Nine Criteria of Causation, visit [here](https://statisticsbyjim.com/basics/causation/). 
 
 ## The Pyschology of Changing Minds
 ### The Propagation of Misinformation
