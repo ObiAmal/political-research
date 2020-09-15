@@ -138,7 +138,7 @@ The Texas Sharpshooter Fallacy refers to when a particular conclusion is drawn b
 
 The way to avoid this fallacy is to avoid making claims that aren't supported by the *entirety* of the data. If you find data that contradicts your position, and ignore it without a good reason (such as methodological failure), then you may be subconsciously committing the Sharpshooter Fallacy. Similarly, if someone is making an argument that relates to a longer timeframe, larger population, or greater area than they cite, they may be actively selecting for data that agrees with them — and thus committing the Texas Sharpshooter Fallacy. 
 
-### Statistics vs. Studies
+### Why It's Important to Contextualize Data
 ### Correlation and Causation
 
 ## The Pyschology of Changing Minds
