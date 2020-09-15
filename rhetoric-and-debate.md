@@ -11,9 +11,10 @@
    * [Bad-Faith Debate Tactics](rhetoric-and-debate#bad-faith-debate-tactics)
 * [Substantiating Your Points](rhetoric-and-debate#substantiating-your-points)
    * [Appeals to Authority](rhetoric-and-debate#appeals-to-authority)
+   * [Selection Bias](rhetoric-and-debate#selection-bias)
    * [Anecdotal Evidence and the Need for Data](rhetoric-and-debate#anecdotal-evidence-and-the-need-for-data)
    * [The Texas Sharpshooter](rhetoric-and-debate#the-texas-sharpshooter)
-   * [Statistics vs. Studies](rhetoric-and-debate#statistics-vs-studies)
+   * [Why It's Important to Contextualize Data](rhetoric-and-debate#why-its-important-to-contextualize-data)
    * [Correlation and Causation](rhetoric-and-debate#correlation-and-causation)
 * [The Pyschology of Changing Minds](rhetoric-and-debate#the-pyschology-of-changing-minds)
    * [The Propagation of Misinformation](rhetoric-and-debate#the-propagation-of-misinformation)
@@ -123,6 +124,16 @@ Good arguments (as the one made by Carl Sagan above) are not true *because* they
 With all this said, since each fragment of knowledge is built on another, relying on academic consensus is often necessary for timeliness. Even consensus isn't *why* something is true, the honest truth is it's still sometimes useful to convince yourself (or others) of a secondary fact. Luckily, academic consensus, despite the flaws of the humans which compose it, has proven to be quite reliable in almost every field: much more reliable than anecdotally chosing to listen a single person with fancy credentials. The difference between citing a single authority and academic consensus is as significant and profound as the difference between citing a single data point and a massive dataset. 
 
 The argument I make here is discussed in more detail [here](https://scienceornot.net/2012/01/31/science-is-built-on-the-contributions-of-scientists-not-on-their-authority/).
+
+### Selection Bias
+
+*Selection bias* occurs when, for whatever reason, "individuals or groups in a study differ systematically from the population of interest leading to a systematic error in an association or outcome" ([source](https://catalogofbias.org/biases/selection-bias/)). For example, selection bias might occur if you poll people entering a concert if they approve of higher taxes on the rich; they are more likely to be wealthy and thus say no.
+
+A particularly interesting form of selection bias is *survivorship bias*; specifically, it is the error of presenting a subset of your data which has passed a particular test as representative of the entire set of data. A commonly discussed example of survivorship bias is from WWII ([source](https://en.wikipedia.org/wiki/Survivorship_bias#In_the_military)). The statistician Abraham Wald was tasked with deciding where to put armor on fighter planes for the U.S. Since more armor increases weight, decreasing range and maneuverability, Wald’s job was to find the most effective places to add armor. Luckily, the army had been gathering data on the distribution of bullet holes on planes. The distribution looked like this: 
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/98/Survivorship-bias.png)
+
+The army suggested that the planes should be outfitted with armor on the areas which received the most fire, but Wald disagreed. Wald realized that the army could only collect data on planes *which made it back*; the fact that these returning planes didn’t have bullet holes on the cockpit, engines, middle wing, or back of the fuselage meant that planes that were shot there didn’t make it back. Upon his recommendation, the army added armor to parts of the plane with less bullet holes, a program that ended up being a massive success. 
 
 ### Anecdotal Evidence
 
