@@ -124,8 +124,20 @@ With all this said, since each fragment of knowledge is built on another, relyin
 
 The argument I make here is discussed in more detail [here](https://scienceornot.net/2012/01/31/science-is-built-on-the-contributions-of-scientists-not-on-their-authority/).
 
-### Anecdotal Evidence and the Need for Data
+### Anecdotal Evidence
+
+One of the core reasons why anecdotal evidence is so troublesome is that, individually, there are a lot of confounding factors that only are resolved by averaging across a dataset that is truly representative of the general population. There are a few ways that this can cause issues. Firstly, ignoring these factors can lead to the post hoc fallacy: assuming a direct causal relationship from X to Y simply because X happened and then Y happened. 
+
+Practically, using one person’s experience to try to justify a society-level policy is fallacious because the evidence is out on how *everyone else* would experience the policy. This means that in political science, anecdotes are absolutely worthless for anything but emotional warfare on their own. Unfortunately, they are an effective rhetorical device, so people (aware or not of the fallacy in their reasoning) will always use them to justify their positions. 
+
+Finally, of course, there is the issue of selection bias. For example, any one person is more likely to share more extreme things that have happened to them. Thus, anecdotes will only spread if they are “surprising” (for example, perhaps people will only share their experiences with homeopathy if it substantially helped or hurt them). This can even lead to problems in science, where null results aren’t published because the individual scientists who found them deemed them not as “interesting” ([source](https://www.statnews.com/2017/11/10/null-research-findings/)). 
+
 ### The Texas Sharpshooter
+
+The Texas Sharpshooter Fallacy refers to when a particular conclusion is drawn based on an incomplete set of the data (usually, a set of data that is purposefully picked to support one's claim). It comes from a story about a Texas gunman, who fired shots randomly into a wall. Afterwards, he found a cluster of shots close together, drew a target around it, and began to brag about his "sharp shooting" ([source](https://philosophyterms.com/the-texas-sharpshooter-fallacy/)). This fallacy occurs frequently during discussions about climate change, as people zoom in on graphs or focus on just one aspect of the weather ([source](https://www.climaterealityproject.org/blog/three-ways-climate-deniers-cherry-pick-facts-about-climate-change)). 
+
+The way to avoid this fallacy is to avoid making claims that aren't supported by the *entirety* of the data. If you find data that contradicts your position, and ignore it without a good reason (such as methodological failure), then you may be subconsciously committing the Sharpshooter Fallacy. Similarly, if someone is making an argument that relates to a longer timeframe, larger population, or greater area than they cite, they may be actively selecting for data that agrees with them — and thus committing the Texas Sharpshooter Fallacy. 
+
 ### Statistics vs. Studies
 ### Correlation and Causation
 
