@@ -156,19 +156,19 @@ The way to avoid this fallacy is to avoid making claims that aren't supported by
 [This study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6039132/) discusses the important of contextualizing data. It tests the procedure and finds "modest gains by using a contextualized approach". However, more importantly, they argue that "neglecting contextual factors may lead to misdirected substantive conclusions, especially for older racial and ethnic minorities." They conclude that "to enhance the ecological validity of survey data, investigators should select theoretically-meaningful contextual data for specific research questions and consider cross-level interactions." In other words, understanding the context of the people surveyed can avoid making relevant errors such as the ecological fallacy. This can help avoid selection bias and bolster future research. It also allows for an appreciation of way in which situations impact different social groups individually. 
 
 ### Correlation and Causation
-"Correlation is not equal to causation"; it's a phrase that is repeated at nearly every level of grade school and there are plenty of articles that discuss it [here](https://www.bloomberg.com/news/articles/2011-12-01/correlation-or-causation). We won't waste too much time rehashing it here, but for the sake of completeness, we'll cover it briefly, because political figures still make this type of mistake. 
+"Correlation is not equal to causation"; it's a phrase that is repeated at nearly every level of grade school, and there are plenty of articles that the hilarious effects of ignoring it (ex. [here](https://www.bloomberg.com/news/articles/2011-12-01/correlation-or-causation)). We won't waste too much time rehashing it here, but for the sake of completeness, we'll cover it briefly, because many political figures, regardless of ideology, still make this basic mistake. 
 
-Essentially, a correlation between two variables *A* and *B* simply means that the quantity of *A* helps predict the quantity of *B* other. It doesn't mean *A* causes *B*; *prima facie*, *B* could cause *A* or there could be no causal link: both *A* and *B* could be caused by a third variable, *C*. In other words, a correlation between *A* and *B* does not prove a causal link between them. 
+Essentially, a correlation between two variables *A* and *B* simply means that the quantity of *A* helps predict the quantity of *B*. It doesn't mean *A* causes *B*, *prima facie*; *B* could cause *A* or there could be no causal link at all. For example, both *A* and *B* could be caused by a third variable, *C*. In other words, a correlative link between *A* and *B* does not necessitate a causal link. 
 
-To conclude that *A* causes *B*, scientists use Hill's Nine Criteria of Causation: 
-1. **Strength:** there is a strong correlation.
+To conclude that *A* causes *B*, scientists use Hill's Nine Criteria of Causation. The more criteria are met, the more likely a causal link is. 
+1. **Strength:** there is a strong correlation between the supposed causes and the supposed effects.
 2. **Consistency:** the result should be repeatable.
 3. **Specificity:** other explanations have been ruled out.
-4. **Temporality:** the supposed causes happen before effects.
+4. **Temporality:** the supposed causes happen before the supposed effects.
 5. **Gradient:** more of the cause induces more of the effect.
-6. **Plausibility:** the explanation for casuality is plausible; though Hill admitted that sometimes science can't always give an explanation, so he viewed this as a weaker requirement.
-7. **Coherence:** the causal relationship is consistent with other causal relationships.
-8. **Experimentally sound:** it has passed a randomized experiment.
+6. **Plausibility:** the explanation for casuality is plausible (though Hill admitted that sometimes science can't always give an explanation, so he viewed this as a weaker requirement).
+7. **Coherence:** the proposed causal relationship is consistent with other causal relationships.
+8. **Experimentally sound:** the proposed causal relationship has passed a randomized experiment.
 9. **Analogous:** it's similar to another causal relationship. 
 To learn more about Hill's Nine Criteria of Causation, visit [here](https://statisticsbyjim.com/basics/causation/). 
 
