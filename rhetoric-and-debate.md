@@ -230,6 +230,7 @@ So what are the "conservative moral values" and "liberal moral values" that argu
 3. "The loyalty/betrayal foundation emphasizes the importance of one’s in-group and prioritizing that in-group."
 4. "The authority/subversion foundation deals with respect for higher ranked individuals as well as adherence to tradition."
 5. "Finally, the sanctity/degradation foundation is concerned with sacredness and purity and avoiding disgust-evoking behaviors."
+
 The study noted that "**research has, in turn, found that compared to conservatives, liberals more strongly endorse the harm/care and the fairness/cheating foundations, while conservatives more strongly endorse the loyalty/betrayal, authority/subversion, and sanctity/degradation foundations.**"
 
 Voelkel and Feinberg tested their theory with presidential candidates Donald Trump and Hillary Clinton. They found that "**conservatives reading a message opposing Donald Trump grounded in a more conservative value (loyalty) supported him less than conservatives reading a message grounded in more liberal concerns (fairness)**". Similarly, "liberals reading a message opposing Hillary Clinton appealing to fairness values were less supportive of Clinton than liberals in a loyalty-argument condition." They summarized their work by saying that "**these results highlight how moral reframing can be used to overcome the rigid stances partisans often hold and help develop political acceptance.**"
