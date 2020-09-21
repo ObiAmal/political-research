@@ -34,7 +34,7 @@
    * [Backlash Against BLM](racism#backlash-against-blm)
    * [Police Violence Against BLM](racism#police-violence-against-blm)
    * [Trump's Response to BLM](racism#trumps-response-to-blm)
-   * [Use of Unconsitutional Federal "Secret Police"](racism#use-of-unconstitutional-federal-secret-police)
+   * [Use of Unconsitutional Federal "Secret Police"](racism#use-of-unconsitutional-federal-secret-police)
 * [Racism and Asian-Americans](racism#racism-and-asian-americans)
    * [Modern-Day Asian Economic Privilege](racism#modern-day-asian-economic-privilege)
    * [The Paradox of "Model Minority" and "Yellow Peril"](racism#the-paradox-of-model-minority-and-yellow-peril)
