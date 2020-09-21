@@ -24,7 +24,7 @@
    * [Healthcare](racism#healthcare)
    * [The Education System](racism#the-education-system)
    * [Academia](racism#academia)
-   * [Minority Crime Rates (inc. 13/50)](racism#minority-crime-rates-inc-13/50)
+   * [Minority Crime Rates (inc. 13/50)](racism#minority-crime-rates-inc-1350)
    * [Disenfrachisement of Minorities](racism#disenfrachisement-of-minorities)
 * [Black Lives Matter](racism#black-lives-matter)
    * [The BLM Organization vs. the BLM Movement](racism#the-blm-organization-vs-the-blm-movement)
