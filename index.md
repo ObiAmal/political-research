@@ -44,7 +44,7 @@ The project is currently *in progress*. Sections without clickable links are not
    * [The Persistance of Misinformation](rhetoric-and-debate#the-persistance-of-misinformation)
    * [Tactics for Debunking Myths and Changing Minds](rhetoric-and-debate#tactics-for-debunking-myths-and-changing-minds)
 
-### Racism
+### [Racism](racism)
 * [Explicit Racism](racism#explicit-racism)
    * [Neo-Nazism, White Supremacy, and White Nationalism](racism#neo-nazism-white-supremacy-and-white-nationalism)
    * ["Race Realism" and Genetics](racism#race-realism-and-genetics)
