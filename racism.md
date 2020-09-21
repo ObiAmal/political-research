@@ -3,11 +3,11 @@
 ---
 
 * [Explicit Racism](racism#explicit-racism)
-   * [Neo-Nazism, White Supremacy, and White Nationalism](racism#)
+   * [Neo-Nazism, White Supremacy, and White Nationalism](racism#neo-nazism-white-supremacy-and-white-nationalism)
    * ["Race Realism" and Genetics](racism#race-realism-and-genetics)
    * [Race IQ Gaps](racism#race-iq-gaps)
    * [Workplace Harassment](racism#workplace-harassment)
-   * [Anti-Semitism in the U.S.](racism#anti-semitism-in-the-U.S.)
+   * [Anti-Semitism in the U.S.](racism#anti-semitism-in-the-US)
    * [Discrimination Against the Italians and Irish](racism#discrimination-against-the-italians-and-irish)
 * [Implicit Racism](racism#implicit-racism)
    * [Judgements About "Black Culture"](racism#judgements-about-black-culture)
