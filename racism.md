@@ -102,11 +102,103 @@ A government task force on workplace harassment wrote [a report](https://www.eeo
 
 ## Implicit Racism
 ### Judgements About “Black Culture”
+This study (summary here) finds the gap in generational income and outcome between races (even in similar conditions between families). It argues that “black and American Indian children have substantially lower rates of upward mobility than the other racial groups. For example, black children born to parents in the bottom household income quintile have a 2.5% chance of rising to the top quintile of household income, compared with 10.6% for whites… Also American Indian and black children have much higher rates of downward mobility than other groups.”
+
+Also, people assume that African-Americans don’t value education (which is why they are underrepresented). This is not true, as evidenced by this study which shows that African-Americans are the most likely to value postsecondary education. People also assume the presence of a gang culture which is somehow innate to black people, but this is ridiculous and wrong: as discussed by this study, the factors associated with gang membership are those that black people are especially affected by (due to socioeconomic discrimination). 
+
 ### Hiring by Name
+Simply the knowledge that a particular individual is African-American or Asian will lower their chances of being requested for an interview. For example, this study (found through this article) revealed that African-Americans were 2.5 times as likely to get an interview request if they hid their race, and that Asians were twice as likely to get an interview request if they hid their race. Indeed, this study found that this is not mitigated by so-called “pro-diversity employers”. The study found that, paradoxically, “minorities may be particularly likely to experience disadvantage when they apply to ostensibly pro-diversity employers”
+
+We can’t sit around and wait for this to get better: this study, titled *Meta-analysis of field experiments shows no change in racial discrimination in hiring over time* demonstrates that the level of racial discrimination against African-Americans has not subsided in the last 30 years. 
+
+<p align="center">
+  <img width="700" src="https://obiamal.github.io/political-research/images/">
+</p>
+
+This study, titled *Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination* states that “Applicants with White names need to send about 10 resumes to get one callback whereas applicants with African-American names need to send about 15 resumes. This 50-percent gap in callback is statistically significant. A White name yields as many more callbacks as an additional eight years of experience on a resume. Since applicants’ names are randomly assigned, this gap can only be attributed to the name manipulation.”
+* This study offers an interesting critique of the above, where they argue that the connotations associated with “black-sounding” names differ based on which name is chosen. However, it does not refute the given evidence. 
+
 ### Judgements by Appearance
+Black people are seen, just via their appearance, as larger, less innocent, and less trustworthy than lighter-skinned people. For example, in this study, entry-level criminal justice students evaluated the trustworthiness of photos of faces of capital inmates shown to them. Students rated pictures of light-skinned inmates as more trustworthy when they preceded pictures of dark-skinned inmates. Interestingly, when controlling for race, no statistically significant change was found: many light-skinned black people also had the same biases. 
+
+Similarly, this study reveals the truth that black boys as young as 10 are seen as both older and less innocent than white boys of the same age. Students and police officers participated in tests to determine levels of racial bias and perception of innocence. Black boys as young as 10 are more likely to be considered criminal or untrustworthy, and more likely to face police violence.
+
+Without a doubt, this is related to the rates of police violence: police officers were tested on dehumanization of blacks by comparing people of different races to animal groups. The study found that police who engaged in higher levels of dehumanization were more likely to use violence against black children.
+
+Finally, this APA release takes the results from three separate studies on perception and racial bias and shows that people have a tendency to perceive black men as larger and more threatening than similarly sized white men. Similarly, participants believed the black men were more capable of causing harm in a hypothetical altercation and police were more justified in using force to subdue them (even if the men were unarmed).
+
+This study is a classic result in implicit bias: a video game was constructed where people were given pictures of African American or White targets holding guns or other objects. They were asked to identify if the person was armed or not, and press “shoot” if they were and “not shoot” if they weren’t. People were quicker to correctly shoot at African American targets, and were quicker to correctly not shoot at white targets. Fascinatingly, there were “equivalent levels of bias among both African American and White participants in a community sample.”
+
 ### Backlash Against Affirmative Action
+
 ### Implicit Racism by Police
+At a fundamental level, police widely speak with less respect towards black people. Explicitly: “officers speak with consistently less respect toward black versus white community members, even after controlling for the race of the officer, the severity of the infraction, the location of the stop, and the outcome of the stop”, according to this 2017 study.
+
+Justice Department Investigation of the Ferguson Police Department
+* Blacks were more than twice as likely as whites to be searched after traffic stops even after controlling for related variables, though they proved to be 26 percent less likely to be in possession of illegal drugs or weapons.
+* Between 2011 and 2013, blacks also received 95% of jaywalking tickets and 94% of tickets for “failure to comply.” The racial discrepancy for speeding tickets increased dramatically when researchers looked at tickets based on only an officer’s word vs. tickets based on objective evidence, such as a radar.
+
+This is an extensive report on racial biases in our criminal justice system.
+* According to the report, 61-80% of black overrepresentation in prisons can be explained by higher black crime rates. This leaves an unexplained portion that is attributed to racial bias.
+* However, recall that (as we discussed) unless one can prove a genetic predisposition for violence among black people, one must accept that black overrepresentation in prisons is also an issue of systemic racism. Underfunded public programs, redlining, generational poverty, bad schooling, and many other factors can also be traced to racial bias.
+
+The Concentrated Racial Impact of Drug Imprisonment and the Characteristics of Punitive Counties
+* While white & black Americans admit to using and selling illicit drugs at similar rates, Black Americans are vastly more likely to go to prison for a drug offense.
+* In 2002, Black Americans were incarcerated for drug offenses at ten times the rate of White Americans. Today, Blacks are 3.7 times as likely to be arrested for a marijuana offense as Whites, despite similar usage.
+* 97% of “large-population counties” have racial biases in their drug offense incarceration.
+
+
+Black people are unfairly stopped by the police at a much higher rate than white people. 
+* This ACLU report reviews 5 months’ of data from DC police stops & searches by race and outcome. It finds that while the black population of DC is only 25% greater than the white population, black people were 410% more likely to be stopped by the police than white people. This disparity increases to 1465% for stops which led to no warning, ticket or arrest and 3695% for searches which led to no warning, ticket or arrest. 
+  * This data indicates the disproportionate stopping and searching of blacks in the DC area extended massively beyond any disproportionate rate of criminality.
+* This report is an analysis of 4.5 million traffic stops in North Carolina shows blacks and latinos were more likely to be searched than whites (5.4 percent, 4.1 percent and 3.1 percent, respectively). One can work this out to see that black people are searched 74% more often and latino people were searched 32% more often. Despite this, searches of white motorists were the most likely to reveal contraband (32% of whites, 29% of blacks, 19% of latinos).
+* This report shows that between 2011 and 2015, black drivers in Nashville’s Davidson County were pulled over at a rate of 1,122 stops per 1,000 drivers (so on average, at least once). “Black Davidson County residents are more than twice as likely as white Davidson County residents to be stopped by the police”, despite searches of white drivers being more likely to turn up contraband.
+
+A large-scale analysis of racial disparities in police stops across the United States
+* *Enormous* study of nearly 100,000,000 traffic stops conducted across America.
+* Analysis finds the bar for searching black and hispanic drivers’ cars is significantly lower than the bar for white drivers. Additionally, black drivers are less likely to be pulled over after sunset, when “a ‘veil of darkness’ masks ones’ race”.
+
+Furthermore, according to this study, police militarization does not lead to a decrease in crimes committed or officer injuries, may actually increase both. Police militarization (including the adoption of SWAT teams) decreases public trust in police, which may contribute to increases in crime. Also, militarized police are disproportionately deployed in African American communities, even when accounting for crime rates.
+
+Finally, it is an indisputable **fact** that police violence is disproportionately skewed towards African-American and Hispanic people. According to this study, while victims were majority white (52%), they were disproportionately black (32%), leading to a fatality rate 2.8 times higher among blacks than whites. Most victims were reported to be armed (83%); however, black victims were *significantly* more likely to be unarmed (14.8%) than white (9.4%) or Hispanic (5.8%) victims. 
+* This paper published by UChicago says “Tobit analyses of 170 cities show that racial inequality explains police killings.”
+* According to this study, “race is a key predictor of police violence against adult males, even after controlling for sex, education, income, and age. Study findings also revealed that attitudes supportive of police violence are associated with negative cultural images of Blacks or African Americans. Participants who approved of police violence against males attributed disparities in employment, income, and housing between Blacks or African Americans and Whites to a lack of motivation and ability to learn, rather than to racial discrimination and lack of education incurred through poverty.”
+
+The police are *not* held accountable for their killings: this interactive report shows that barely 1% of police officers that kill people are charged with a crime — more insidiously, we don't even have an idea who the majority of police killers are. You can also read more here. 
+
 ### Implicit Racism in the Courts
+Every stage of the criminal “justice” system sees implicit bias fuck over black people: 
+
+*Charge Dismissal:* According to a Justice Department Investigation of the Ferguson Police Department, black people facing similar low-level charges as white people were 68 percent less likely to see those charges dismissed in court. More than 90 percent of the arrest warrants stemming from failure to pay/failure to appear were issued for black people.
+
+*Jury Selection:* This study states that between 1990 and 2010, state prosecutors struck 53% of black people eligible for juries in criminal cases, as opposed to 26% of white people. The study’s authors said the odds of this taking place in a race-neutral context were around 1 in 10 trillion. After accounting for factors which correlate with race that prosecutors select for, black people were still struck twice as often. 
+Worth noting: Before this study’s publication, North Carolina’s state legislature had previously passed a law stating death penalty defendants who could demonstrate racial bias in their jury selection could have their sentences changed to life without parole. After this study’s publication, the legislature repealed that law.
+
+Furthermore, even fairly chosen jurors will be biased against darker-skinned people, according to this study. It gave two groups of mock jurors a collection of race-neutral evidence from an armed robbery; one group’s alleged perpetrator was shown to be light-skinned and the other dark-skinned. Jurors were significantly more likely to evaluate ambiguous, race-neutral evidence against the dark-skinned suspect as incriminating and more likely to find the dark-skinned suspect guilty.
+
+*Bail:* A study of bail in 5 large counties found blacks received significantly higher bail than whites who had committed similar crimes. The bail was $7,000 higher for violent crimes, $13,000 higher for drug crimes and $10,000 higher for crimes related to public order.
+
+*Plea and Charge Bargaining:* The government aggregate of data on plea and charge bargaining states that “studies that assess the effects of race find that blacks are less likely to receive a reduced charge compared with whites.” It does not get much more explicit than “the majority of research on race and sentencing outcomes shows that blacks are less likely than whites to receive reduced pleas.”
+
+*Sentencing:* Extensive multivariate regression analysis indicates black male offenders receive 19.1% longer federal sentences than similarly-situated white male offenders (white male offenders with similar past offenses, socioeconomic background, etc). In contrast, when sentencing length follows standard guidelines, that disparity is only 7.9%.
+Note: regression analysis suggests violence in a criminal’s history does not explain sentencing disparities between black males and similarly situated white males — the effect of that factor seems to be statistically insignificant.
+
+This study finds that black men are twice as likely to have charges which carry mandatory minimum sentences filed against them than similarly-situated white men. 
+
+This study dives deeper into the differences between the treatment of light-skinned black men and dark-skinned black men. A study of first-time felons in Georgia found black men received sentences of on average 270 days longer than similarly-situated white males. However, when black males were differentiated by skin tone, it was found light-skinned black men saw virtually no disparity in their sentencing while dark-skinned black men actually saw a disparity of around 400 days in prison.
+
+*Death Penalty (If Applicable):* 
+This study is an analysis of 33 years of data from Washington State to determine which characteristics best predict the decision to implement a death sentence. As it turns out, race was by far the most influential statistical factor, with black defendants 4.5 times as likely to receive a death sentence as similarly-situated whites.
+Other factors (presence of aggravating circumstances, involvement of sex crimes, hostage-taking, etc) explain only a small fraction of the disparity in prosecutors’ and juries’ decision to invoke the death penalty against black defendents.
+
+This study is an analysis of the relationship between racial stereotyping and death sentence convictions. Black defendants who possessed darker skin and more “stereotypically black” features were twice as likely to be given the death penalty when accused of murdering a white person, as compared to lighter-skinned blacks with less “stereotypically black” features. This disparity disappears completely when the murder victim is black.
+Along a similar vein, this study states that in North Carolina, murderers who kill white people are three times more likely to get the death penalty than murderers who kill black people. 
+
+*Prison Time:* Examination of federal data indicates Black Americans spend about 10% more time in prison compared to comparable Whites who commit the same crimes. Additionally, Black arrestees are 75% more likely to be charged with a crime with a mandatory minimum sentence.
+
+*Probation:* The Urban Institute analyzed the histories of four probation offices and found that black people were 18-39% more likely than similarly-situated white people to have their probation revoked.
+
+*Designating Habitual Offenders:* According to this study, black defendants with multiple prior convictions are 28% more likely to be charged as “habitual offenders” than similarly-situated white defendants. The study states “assessments of dangerousness and culpability are linked to race and ethnicity, even after offense seriousness and prior record are controlled.”
 
 ## Racism by Outcome
 ### Redlining and Housing Discrimination
