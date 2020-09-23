@@ -136,7 +136,7 @@ Interestingly, [this study](https://journals.sagepub.com/doi/full/10.3102/001318
 Minorities are underrepresented as teachers compared to students (this table is sourced from [here](https://sites.ed.gov/whieeaa/files/2016/10/WHIEEAA-Call-for-African-American-Educators-factsheet.pdf)): 
 
 <p align="center">
-  <img width="800" src="https://obiamal.github.io/political-research/images/american_classrooms_by_race.PNG">
+  <img width="550" src="https://obiamal.github.io/political-research/images/american_classrooms_by_race.PNG">
 </p>
 
 There is obscene underrepresentation of BIPOC students in public gifted programs. According to [this study](https://journals.sagepub.com/doi/full/10.1177/2332858415622175), black students appear at 59% the expected rate (Hispanic students appear at 69% the expected rate). Gifted programs can be a force for good: the same study states that “studies have linked participation in gifted programs to positive future outcomes, including increased academic performance and improvements in… motivation, self-efficacy, engagement with learning, nonacademic self-concept, and overall stress”. However, they are forces for inequality when they discriminate across racial lines. 
