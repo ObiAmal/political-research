@@ -8,7 +8,8 @@ The project is currently *in progress*. Sections without clickable links are not
 
 ---
 
-## Mini Table of Contents
+## Table of Contents
+
 ### [Interesting Philosophical Topics](philosophical-topics)
 ### [Basic Demographics of the U.S.](basic-demographics)
 ### [Rhetoric and Debate](rhetoric-and-debate)
@@ -45,7 +46,7 @@ The project is currently *in progress*. Sections without clickable links are not
 
 ---
 
-## Table of Contents
+## Expanded Table of Contents
 
 ### [Interesting Philosophical Topics](philosophical-topics)
 * [The Nature of "Politics"](philosophical-topics#the-nature-of-politics)
