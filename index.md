@@ -8,6 +8,43 @@ The project is currently *in progress*. Sections without clickable links are not
 
 ---
 
+## Mini Table of Contents
+### [Interesting Philosophical Topics](philosophical-topics)
+### [Basic Demographics of the U.S.](basic-demographics)
+### [Rhetoric and Debate](rhetoric-and-debate)
+### [Racism](racism)
+### Immigration and Xenophobia
+### Sexism
+### Abortion
+### Homophobia and Transphobia
+### GSRM and LGBTQ+ Issues \[TBP\]
+### Other Forms of Discrimination \[TBP\]
+### Climate Change
+### Other Environmental Issues
+### Religion
+### Protests and Free Speech \[TBP\]
+### Capitalism and Economics \[TBP\]
+### Classism \[TBP\]
+### Socialism and Economics \[TBP\]
+### Modern Fascism and neo-Nazism
+### Healthcare
+### Media and Misinformation
+### The Education System
+### Drugs
+### Sex Workers
+### The Police and Prison System
+### The U.S. Is Not the Greatest Country in the World
+### Democracy and Voting Systems
+### Relevant Global Issues
+### Coronavirus
+### Miscellaneous
+### A Messy List of "Bad Studies"
+### Female and BIPOC Philosophical Figures
+### Relevant Political Figures
+### [Appendices](appendices)
+
+---
+
 ## Table of Contents
 
 ### [Interesting Philosophical Topics](philosophical-topics)
