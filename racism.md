@@ -53,6 +53,7 @@ A principal white nationalist argument is that diversity hurts “social cohesio
 <p align="center">
   <img width="700" src="https://obiamal.github.io/political-research/images/diversity-and-social-cohesion.PNG">
 </p>
+
 * The majority of data does not support the negative relationship between interethnic contact and trust, and a plurality of data rejects the existence of such a relationship. Only one category: “intra-neighborhood” scope has a high level of “Support”.
 * Indeed, the study finds that in ethnically heterogeneous communities, there is a positive relationship between inter-ethnic contact and trust. 
 * [This study](https://scholar.harvard.edu/files/laibson/files/measuring_trust.pdf) tested 200 students in a trust-based experiment and found no statistically significant negative relationship between diversity and “social cohesion” (as measured from a trust-based experiment). 
