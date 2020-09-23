@@ -45,11 +45,59 @@
 
 ## Explicit Racism
 ### Neo-Nazism, White Supremacy, and White Nationalism
+First, we must understand that neo-Nazism and white supremacy is still a massive problem in the U.S. According to a [joint Washington Post-ABC News Poll](http://apps.washingtonpost.com/g/page/politics/washington-post-abc-news-poll-aug-16-20-2017/2235/), 9% of Americans believe that it is “acceptable” to hold “neo-Nazi or white supremacist” views. This is dozens of millions of people.
+
+A principal white nationalist argument is that diversity hurts “social cohesion” and contributes to a fragmented society. As a result, the only solution (according to a white nationalist) is the creation of white and black ethno-states. However, their argument’s premise goes against academic consensus. 
+* “Guided by a clear conceptual framework, we structure the empirical results of 90 recent studies and observe… ethnic diversity is not related to less interethnic social cohesion” ([link](https://www.annualreviews.org/doi/full/10.1146/annurev-soc-071913-043309))
+* “studies have failed to demonstrate convincingly the crucial link between out-group size and ethnic threat (e.g., Wagner et al. 2006, Schlueter & Scheepers 2010, Savelkoul et al. 2011; but see Schlueter & Wagner 2008).” ([link](https://www.annualreviews.org/doi/full/10.1146/annurev-soc-071913-043309))
+<p align="center">
+  <img width="700" src="https://obiamal.github.io/political-research/images/diversity-and-social-cohesion.PNG">
+</p>
+* The majority of data does not support the negative relationship between interethnic contact and trust, and a plurality of data rejects the existence of such a relationship. Only one category: “intra-neighborhood” scope has a high level of “Support”.
+* Indeed, the study finds that in ethnically heterogeneous communities, there is a positive relationship between inter-ethnic contact and trust. 
+* [This study](https://scholar.harvard.edu/files/laibson/files/measuring_trust.pdf) tested 200 students in a trust-based experiment and found no statistically significant negative relationship between diversity and “social cohesion” (as measured from a trust-based experiment). 
+* [This longitudinal study](http://www.fisherwilliamson.com/downloads/MPSA040508.FINAL2.pdf) compared the social cohesion of two areas over time where one experienced a large increase in diversity whereas the other did not. The two areas did not differ significantly in how their levels of social cohesion changed over time.
+
+Even if diversity hurts social cohesion, the result is not necessarily that white people are superior. This decrease in social cohesion is far more likely to come from prejudice. This is supported by [this longitudinal study](https://academic.oup.com/sf/article-abstract/93/3/1211/2332107), which analyzed changes in trust in 22 European countries from 2002 to 2010. It suggests that while immigration can lead to lower social trust, these results were dependent on ethnic polarization & economic stability. With low polarization and a good economy, immigration was shown to actually increase social trust. This suggests that immigration and diversity are not the causes of a decrease in social cohesion, but react with xenophobia to cause a fractured social dynamic. 
+
 ### “Race Realism” and Genetics
+Firstly, we must acknowledge the reality that genetic differences are not tied to race. For example, [this study](https://www.genetics.org/content/161/1/269) is literally titled “Larger Genetic Differences Within Africans Than Between Africans and Eurasians”. Race realists will similarly claim that genetic differences between individuals are dwarfed by genetic differences between populations, often citing [this study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1893020/), which ostensibly states that a pair of individuals from one population is never more genetically dissimilar than two individuals chosen from two different populations. However, this is cherry picked: their actual conclusion is: 
+
+“The fact that, given enough genetic data, individuals can be correctly assigned to their populations of origin is compatible with the observation that most human genetic variation is found within populations, not between them. It is also compatible with our finding that, even when the most distinct populations are considered and hundreds of loci are used, individuals are frequently more similar to members of other populations than to members of their own population. Thus, caution should be used when using geographic or genetic ancestry to make inferences about individual phenotypes.”
+
+Furthermore, [this study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5299519/) found there is broad consensus among anthropologists that “there are no human biological races and recognition that race exists as lived social experiences that can have important effects on health”. An [announcement by Cell](https://www.cell.com/ajhg/fulltext/S0002-9297(18)30363-X) said the same thing, claiming that (among other things):
+
+“Genetics demonstrates that humans cannot be divided into biologically distinct subcategories… Genetics exposes the concept of “racial purity” as scientifically meaningless… It follows that there can be no genetics-based support for claiming one group as superior to another. ”
+
+It is incredibly easy to find more and more studies saying this exact same thing: for this I reference the Source Library's section ["Racialism and Race Realism"](https://docs.google.com/document/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/edit#heading=h.nko5z1ken1so). 
+
 ### Race IQ Gaps
+It is a fact that white people in America have a higher IQ than black people in America (and East Asians have a higher IQ than both). Some people argue a genetic cause, using studies that show East Asians adopted by white parents outperform white children raised by white parents. However, [this study](https://www.mdpi.com/2079-3200/5/1/1) argues that the Flynn Effect and other artifacts account for the entire difference: 
+* “Diagnosing these artifacts suggests a nil hypothesis: East Asian, White, and Black adoptees raised in the same environment would have similar IQs, hinting at a minimal role for genes in racial IQ differences.”
+
+Recall that the Flynn Effect is the fact that people tend to perform better on IQ tests over time. For example, [this massive meta-analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152423/) argues that average IQ performance on set tests is increasing by 3 points/decade (and not slowing down). Genes cannot explain a difference that takes place on the scale of decades or even centuries: thus the Flynn Effect is evidence of the environment’s significant effect on expressed IQ. Even more directly: “Individuals differ in intelligence due to differences in both their environments and genetic heritage. Heritability estimates range from 0.4 to 0.8 (on a scale from 0 to l)” ([link](https://www1.udel.edu/educ/gottfredson/reprints/1997mainstream.pdf)). This means that the environment contributes to 20-60% of the difference in intelligence between individuals, thereby meaning that the current statistical difference can be entirely explained by the environment. 
+
+Following is more evidence that the Black-White IQ Gap is environmental, not genetic: 
+* “As to the cause of the mean Black–White group difference, however, the Task Force concluded: ‘There is certainly no support for a genetic interpretation’” ([link](https://psycnet.apa.org/record/1996-02655-001), page 97)
+* “It is often asserted that Black Americans have made no IQ gains on White Americans. Until recently, there has been no adequate data to measure trends in Black IQ. We analyzed data from nine standardization samples for four major tests of cognitive ability. These data suggest that Blacks gained 4 to 7 IQ points on non-Hispanic Whites between 1972 and 2002. Gains have been fairly uniform across the entire range of Black cognitive ability.” ([link](https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01802.x)). 
+* Historically, people in marginalized groups (Italian-Americans, Irish-Americans, Polish-Americans) often score lower on IQ tests regardless of race ([link](https://www.jstor.org/stable/pdf/6403.pdf)). 
+
+Finally, a lower socioeconomic state can suppress intelligence, according to [this study](https://review.chicagobooth.edu/behavioral-science/2018/article/how-poverty-changes-your-mind-set), which notes that “working through a difficult financial problem produces a cognitive strain that’s equivalent to a 13-point deficit in IQ or a full night’s sleep lost”. Similarly, “in India, where sugarcane farmers are paid annually after the harvest, farmers’ attention scores were the equivalent of 10 IQ points higher than just before the harvest, when farmers were relatively poor”. And this disadvantage is passed on: [this study](https://www.sciencedirect.com/science/article/pii/S0160289614001433) finds that “high and low SES \[socioeconomic background\] children differed by 6 IQ points at age 2” but that by high school, this difference had almost tripled. The point is that Black people suffer from substandard socioeconomic states which lead to significant and propagated IQ differences.
+
 ### Workplace Harassment
+A government task force on workplace harassment wrote [a report](https://www.eeoc.gov/select-task-force-study-harassment-workplace) which stated that studies supported the claim that a workplace harassment on the basis of race or ethnicity is a widespread problem. For example, the report states that “in one of the first studies of racial and ethnic harassment based on a convenience sample, between 40% and 60% of respondents…  reported experiencing some form of racial or ethnic harassment” and that another study “found that 70% of the respondents reported experiencing… verbal harassment and 45% reported experiencing exclusionary behaviors.”
+
 ### Anti-Semitism in the U.S.
+[A very interesting history of anti-Semitism specifically in the United States.](https://www.brandeis.edu/hornstein/sarna/popularandencyclopedia/Archive/Anti-SemitismandAmericanHistory.pdf)
+[The Holocaust Museum also has a lot of interesting articles that are worth reading.](https://www.ushmm.org/antisemitism)
+
 ### Discrimination Against the Italians and Irish
+[Just a little to learn about our history of discrimination against the Italians.](https://www.pri.org/stories/2015-11-26/brief-history-america-s-hostility-previous-generation-mediterranean-migrants)
+[Another interesting op-ed about the history of discrimination against the Italians.](https://www.nytimes.com/interactive/2019/10/12/opinion/columbus-day-italian-american-racism.html)
+
+[The Irish were also despised by Americans and not welcomed into the country.](https://www.history.com/news/when-america-despised-the-irish-the-19th-centurys-refugee-crisis)
+[Library of Congress description of the history of Irish immigration.](https://www.loc.gov/classroom-materials/immigration/irish/)
+[Last article about Irish-American oppression.](https://storymaps.arcgis.com/stories/ddfea120cc464f00bd9d1ceee4418a13)
 
 ## Implicit Racism
 ### Judgements About “Black Culture”
@@ -136,7 +184,7 @@ Interestingly, [this study](https://journals.sagepub.com/doi/full/10.3102/001318
 Minorities are underrepresented as teachers compared to students (this table is sourced from [here](https://sites.ed.gov/whieeaa/files/2016/10/WHIEEAA-Call-for-African-American-Educators-factsheet.pdf)): 
 
 <p align="center">
-  <img width="550" src="https://obiamal.github.io/political-research/images/american_classrooms_by_race.PNG">
+  <img width="550" src="https://obiamal.github.io/political-research/images/american-classrooms-by-race.png">
 </p>
 
 There is obscene underrepresentation of BIPOC students in public gifted programs. According to [this study](https://journals.sagepub.com/doi/full/10.1177/2332858415622175), black students appear at 59% the expected rate (Hispanic students appear at 69% the expected rate). Gifted programs can be a force for good: the same study states that “studies have linked participation in gifted programs to positive future outcomes, including increased academic performance and improvements in… motivation, self-efficacy, engagement with learning, nonacademic self-concept, and overall stress”. However, they are forces for inequality when they discriminate across racial lines. 
